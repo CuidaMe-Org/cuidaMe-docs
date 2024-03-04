@@ -1,4 +1,5 @@
-﻿**Autor(es):** **[Vázquez Rodríguez, Fausto](./grupo)**
+﻿**Autor(es):** 
+- Vázquez Rodríguez, Fausto
 
 |**Fecha**|**Versión**|
 | :-: | :-: |

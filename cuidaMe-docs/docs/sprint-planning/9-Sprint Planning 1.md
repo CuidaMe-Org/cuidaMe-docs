@@ -1,4 +1,5 @@
-﻿**Autor(es):** **[Restoy Barrero, Joaquín](./grupo)**
+﻿**Autor(es):**
+- Restoy Barrero, Joaquín
 
 
 |**Fecha** |**Versión** |

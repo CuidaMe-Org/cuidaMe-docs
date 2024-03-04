@@ -1,4 +1,6 @@
-﻿**Autor(es):** **[Diáñez Suárez, Daniel](./grupo)**, **[León Madroñal, Juan Carlos](./grupo)**
+﻿**Autor(es):**
+- Diáñez Suárez, Daniel
+- León Madroñal, Juan Carlos
 
 
 |**Fecha**|**Versión**|

@@ -1,4 +1,5 @@
-﻿**Autor(es):** **[Diañez Suárez, Daniel](./grupo)**
+﻿**Autor(es):**
+- Diañez Suárez, Daniel
 
 |**Fecha**|**Versión**|
 | - | - |

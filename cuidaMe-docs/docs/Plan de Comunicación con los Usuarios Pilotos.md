@@ -1,4 +1,5 @@
-﻿**Autor(es):** **[Albulatifa, Mohanad](./grupo)**, **[Castellano Alonso, Álvaro](./grupo)**
+﻿**Autor(es):** 
+- Albulatifa, MohanadCastellano Alonso, Álvaro
 
 |**Fecha**|**Versión**|
 | :-: | :-: |

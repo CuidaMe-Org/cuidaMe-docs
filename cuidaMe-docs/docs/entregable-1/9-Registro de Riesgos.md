@@ -1,4 +1,5 @@
-﻿**Autor(es):** **[Jiménez Del Villar, Juan Antonio](./grupo)**
+﻿**Autor(es):**
+- Jiménez Del Villar, Juan Antonio
 
 
 |**Fecha**|**Versión**|
