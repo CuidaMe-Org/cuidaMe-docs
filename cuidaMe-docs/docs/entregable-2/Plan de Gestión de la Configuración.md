@@ -1,5 +1,5 @@
 ﻿**Autor(es):**
-- Vázquez Rodrígues, Fausto
+- Vázquez Rodríguez, Fausto
 
 |**Fecha**|**Versión**|
 | :-: | :-: |

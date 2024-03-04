@@ -1,5 +1,5 @@
 **Autor(es):**
-- del Río Pérez, Carlos
+- Del Río Pérez, Carlos
 
 
 |**Fecha**|**Versión**|
