@@ -1,4 +1,4 @@
-﻿**Autor(es):** **[Vidal Tévar, Gabriel](../grupo)**
+﻿**Autor(es):** **[Vidal Tévar, Gabriel](./grupo)**
 
 
 |**Fecha**|**Versión**|

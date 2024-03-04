@@ -1,5 +1,5 @@
 ﻿
-**Autor(es):** **[Márquez González, Diego](../grupo)**
+**Autor(es):** **[Márquez González, Diego](./grupo)**
 
 |**Fecha**|**Versión**|
 | :-: | :-: |

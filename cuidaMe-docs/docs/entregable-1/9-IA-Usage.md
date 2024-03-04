@@ -1,4 +1,4 @@
-﻿**Autor(es):** **[De la Prada Prados, Francisco Javier](../grupo)**
+﻿**Autor(es):** **[De la Prada Prados, Francisco Javier](./grupo)**
 
 
 |**Fecha**|` `**Versión**|

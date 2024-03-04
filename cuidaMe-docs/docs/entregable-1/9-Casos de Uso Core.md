@@ -1,4 +1,4 @@
-﻿**Autor(es):** **[Castellano, Alonso, Álvaro](../grupo)**, **[De la Prada Prados, Francisco Javier](../grupo)**, **[Del Río Pérez, Carlos](../grupo)**, **[Vidar Tévar, Gabriel](../grupo)**
+﻿**Autor(es):** **[Castellano, Alonso, Álvaro](./grupo)**, **[De la Prada Prados, Francisco Javier](./grupo)**, **[Del Río Pérez, Carlos](./grupo)**, **[Vidar Tévar, Gabriel](./grupo)**
 
 
 |**Fecha**|**Versión**|

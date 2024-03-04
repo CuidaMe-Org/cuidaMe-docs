@@ -1,4 +1,4 @@
-﻿**Autor(es):** **[Vázquez Rodrígues, Fausto](../grupo)**
+﻿**Autor(es):** **[Vázquez Rodrígues, Fausto](./grupo)**
 
 
 

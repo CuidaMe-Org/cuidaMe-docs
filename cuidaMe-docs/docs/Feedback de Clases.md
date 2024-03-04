@@ -1,4 +1,4 @@
-﻿**Autor(es):** **[García Galocha, Rafael David](../grupo)**, **[García Hernández, Cristina](../grupo)**, **[Vázquez Rodríguez, Fausto](../grupo)**
+﻿**Autor(es):** **[García Galocha, Rafael David](./grupo)**, **[García Hernández, Cristina](./grupo)**, **[Vázquez Rodríguez, Fausto](./grupo)**
 
 |**Fecha**|**Versión**|
 | :-: | :-: |

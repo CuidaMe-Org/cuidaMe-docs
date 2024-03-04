@@ -1,4 +1,4 @@
-﻿**Autor(es):** **[García Hernández, Cristina](../grupo)**, **[Pérez Romero, Lucía](../grupo)**, **[Restoy Barrero, Joaquín](../grupo)**
+﻿**Autor(es):** **[García Hernández, Cristina](./grupo)**, **[Pérez Romero, Lucía](./grupo)**, **[Restoy Barrero, Joaquín](./grupo)**
 
 
 |**Fecha**|**Versión**|

@@ -1,4 +1,4 @@
-﻿**Autor(es):** **[Pérez Romero, Lucía](../grupo)**, **[Granados López, Manuel Jesús](../grupo)**
+﻿**Autor(es):** **[Pérez Romero, Lucía](./grupo)**, **[Granados López, Manuel Jesús](./grupo)**
 
 
 |**Fecha**|**Versión**|

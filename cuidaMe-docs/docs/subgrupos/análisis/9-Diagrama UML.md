@@ -1,4 +1,4 @@
-﻿**Autor(es):** **[del Río Pérez, Carlos](../grupo)**, **[Diañes Suárez, Daniel](../grupo)**
+﻿**Autor(es):** **[del Río Pérez, Carlos](./grupo)**, **[Diañes Suárez, Daniel](./grupo)**
 
 
 |**Fecha** |**Versión** |

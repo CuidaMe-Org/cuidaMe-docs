@@ -1,4 +1,4 @@
-﻿**Autor(es):** **[García Galocha, Rafael David](../grupo)**
+﻿**Autor(es):** **[García Galocha, Rafael David](./grupo)**
 
 
 |**Fecha**|**Versión**|

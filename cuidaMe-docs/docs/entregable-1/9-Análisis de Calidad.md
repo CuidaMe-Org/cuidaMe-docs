@@ -1,5 +1,5 @@
 ﻿
-**Autor(es):** **[García Hernández, Cristina](../grupo)**
+**Autor(es):** **[García Hernández, Cristina](./grupo)**
 
 
 |**Fecha**|**Versión**|

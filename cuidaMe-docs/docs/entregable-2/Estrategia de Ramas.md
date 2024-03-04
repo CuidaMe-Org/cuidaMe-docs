@@ -1,4 +1,4 @@
-**Autor(es):** **[del Río Pérez, Carlos](../grupo)**
+**Autor(es):** **[del Río Pérez, Carlos](./grupo)**
 
 
 |**Fecha**|**Versión**|
