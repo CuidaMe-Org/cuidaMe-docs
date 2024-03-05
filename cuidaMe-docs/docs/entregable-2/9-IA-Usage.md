@@ -5,6 +5,7 @@
 |**Fecha**|**Versión**|
 | :-: | :-: |
 |17/02/2024|v1.0|
+|04/03/2024|v2.0|
 
 
 ## Presentación
@@ -95,4 +96,46 @@ La conversación completa puede verse desde aquí: http://cuidame.wikidot.com/ge
   La conversación completa puede verse aquí:
 
   http://cuidame.wikidot.com/innovacion-tecnologica
+
+
+
+### Semana 5
+
+- **Base para la reorganización del feedback**
+
+  Se le pide a ChatGPT que reorganice las 3 secciones en las que el grupo organiza el feedback en la base de datos común de los grupos de ISPP. Se le proporciona además todo el feedback recogido para que pueda plantear mejor las secciones solicitadas.
+
+  Tras esto, ChatGPT mantiene las 3 secciones originales pero les añade 3 subsecciones a cada una de ellas para mejorar la organización de estas.
+
+  La conversación completa puede verse aquí:
+
+  https://chat.openai.com/share/71fda9e6-fd1c-42d4-9300-9d993b982ab7
+
+- **Resolución de errores en el código**
+
+  Se le pasa a ChatGPT los errores mostrados por la consola de Django para poder corregirlos y así tener un correcto funcionamiento en la aplicación. Tras un intercambio de mensajes y varias modificaciones en el código sugeridas por la IA, se consiguen solucionar los errores.
+
+  La conversación completa puede verse aquí:
+
+  https://chat.openai.com/share/521624e3-3722-47e5-85ab-711f27f8b031
+
+- **Test para la definición de ofertas**
+
+  Se le pide a ChatGPT que genere una serie de test para probar todas las funcionalidades necesarias de las ofertas, realizadas en nuestra aplicación.
+
+  La conversación completa puede verse aquí:
+
+  https://chat.openai.com/share/a0e3a12b-af5b-461b-b5ba-07c3104653fc
+
+
+
+- Lucía Pérez Romero. Definición de hecho para el documento de evaluación de desempeño
+
+  https://chat.openai.com/share/52bf28e4-9d6a-4f90-9ec8-5101b443d444
+
+- Lucía Pérez Romero. Consulta de errores de código:
+
+  https://chat.openai.com/share/521624e3-3722-47e5-85ab-711f27f8b031
+
+
 

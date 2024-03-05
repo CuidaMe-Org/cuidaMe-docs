@@ -1,5 +1,6 @@
 ﻿**Autor(es):** 
-- Albulatifa, MohanadCastellano Alonso, Álvaro
+- Albulatifa, Mohanad
+- Castellano Alonso, Álvaro
 
 |**Fecha**|**Versión**|
 | :-: | :-: |
