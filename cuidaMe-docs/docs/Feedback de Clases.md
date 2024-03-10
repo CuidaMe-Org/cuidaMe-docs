@@ -8,6 +8,7 @@
 |14/02/2024|v1.0|
 |17/02/2024|v1.1|
 |27/02/2024|v1.2|
+|10/03/2024|v1.3|
 
 
 ## Feedback 06/02
@@ -503,9 +504,9 @@ grupo harmony
 nuestro grupo
 
 - todo super bieeeeeeeeeeeen :D, presentacion geeeeeeeniaaaaaaaaaaaaaal
-- ` `analisis de competidores maravillosoooo,rendimiento supeeeeeeer bieeeeeeeeen (mejorable pero bien para ser inicial) quien evalúa al evaluador de la estimación de las tareas y estimaciones a los roles.
+- analisis de competidores maravillosoooo,rendimiento supeeeeeeer bieeeeeeeeen (mejorable pero bien para ser inicial) quien evalúa al evaluador de la estimación de las tareas y estimaciones a los roles.
 - recompensas darle una vuelta, más que quitarle más carga que tenga capacidad de elección de tareas
-- ` `usuarios pilotos, poner planning di-semanal para que se vea mejor, qué día está disponible el sistema, formulario hasta cuánto está disponible para el feedback etv.
+- usuarios pilotos, poner planning di-semanal para que se vea mejor, qué día está disponible el sistema, formulario hasta cuánto está disponible para el feedback etv.
 - ¿Dependencia de tareas? orden de tarea, cuales son paralelizables, hacer un pseudo diagrama de GANTT
 - Grafo que vuelva en la presentación final
 - En conclusión GENIAL.
@@ -559,3 +560,87 @@ QUE SE ESPERA
 - ‌gestión usuarios pilotos teniéndolo temporal que día va a estar disponible y hasta cuando vamos a recopilar feedback de ellos, planificación de lo terminado en el sprint 1 y que se va a hacer en el sprint 2, uso de la Ia, qr landing page y feedback.
 
 
+## Feedback 05/03
+### **Registro 1**
+Grupo 12 3dprinter:
+- No se ha seguido el orden dado para la presentación
+- Sueldo trabajadores propios NO es opex, es capex
+- Subcontrataciones son gastos de operación
+- Demasiadas tablas de costes, mejor con una gráfica (pesimista-optimista)
+- Riesgos/problemas: como se va a gestionar los riesgos que han surgido (se han solucionado o no)
+- Si hay una traspa sobre el elevator speech, hacer otra con el tipo de negocio
+- Elevetor speech ha sido demasiado largo y no elevator como tal
+- No es realista que todos los planes tengan los mismos usuarios
+- No poner color rojo si no significa peligro
+- Estadisticas: decir cuantos comentarios hay en github. Deben comentarse las issues, pr...
+- En clockify distinguir entre doc, código, ...
+
+Grupo 8 buffet:
+- Falta: en costes situación actual, visiones optimista/pesimista/esperada, en commit agree el estado, más core de aplicación, más usuarios pilotos, más detalle en planificación…
+- Definir mejor los planes de precio, y por mes
+- Explicar la validación de la fórmula de rendimiento con ejemplos, IMPORTANTE
+
+Grupo 11:
+- Falta situación actual de los costes (pes/opt/esperado)
+- Rendimiento separado de commit agree, no tiene nada que ver
+- Planificación de todos los sprints
+- TCO + mantenimiento está mal, va dentro
+- En las tablas dejar claro que son las columnas y las filas
+
+Grupo 9 (nosotros):
+- Demostración de la demo seguida completa, quitando registros. Si eso poner texto editado. No poner mockups al lado que quita espacio
+- Mejorar el elevator speech, tiene un diferente objetivo que el opener, son 30s para convencer a alguien de invertir en la empresa. Intentar montar algo relacionado con la sintaxis que se ha hecho en los competidores
+- Capex/Opex algunas cosas no cuadran: coste total desarrollo -> github? -> no es de nuestra propiedad, así que no es capex
+- Coste riego/contingencia puede estar bien dependiendo de la perspectiva, depende de para que se use el dinero
+- Hay que intentar reducir el opex 
+
+Grupo 10:
+- No decir simplemente aplicación, esta es solo una parte del servicio
+- Mirar apuntes PSG2 sprint 4
+- Un servicio tiene aplicaciones, grupo de personas de soporte...
+- Presentar exactamente lo que se ha entregado 
+- Todo lo que se pide debe estar en la presentación
+- Planning complejo de entender con las tablas tan específicas
+- Cuidado con sintetizar demasiado varias transparencias en una sola
+- Cuantos comentarios hay en las issues de github
+- Aparte de conventional commit, hacer algo parecido con las issues
+
+Grupo 7:
+- Mockapi como herramientas para que frontend pueda trabajar sin backend?
+- Tests previos antes que back/front?
+
+
+Profesores:
+- Documentación como código al extremo (docusaurus). Saber gestionar bien un repositorio. - Tan importante es el código como toda la documentación.
+- Dejar desplegado el docusaurus personal
+- En docusaurus facebook aparece la licencia con la que aparece la documentación
+- Ahi debe aparecer también toda la metodología que se sigue
+- El readme suele ser más corto
+- Desde el readme al portal de documentación
+- Organizar mejor las issues -> tener método de trabajo
+- Mejor entregar algo que nada
+- Issues que se espera ver: Escuchar píldora 3 -> y hacer comentarios si hay que cambiar algo
+- Hay diferentes maneras de agrupar issues
+- Tareas de actualizar presentación, actualizar tal cosa…
+- ALM no se ha echado demasiada cuenta
+- Time effort report -> indiv grup y reloj (clockify)
+- Descripciones correspondientes clockify (usar extensión) -> sin descripción NO
+
+Siguiente semana:
+- 15min
+- Retrospectiva
+- Solo entra el grupo que sea
+- Análisis de rendimiento profundo, tendencia…
+- Commit agreement
+Para el 19:
+- Primera parte igual que ahora
+- Añadir story board (dirigido al cliente)
+- Empezar con los aspectos legales del proyecto (términos)
+- GPDR hay que ir mirando cosas
+- Análisis del TCO solo, no todos los costes
+- Demo del prototipo desplegado, con el core + nuevas funcionalidades, CON DATOS REALES
+- Retrospectiva igual hasta la fecha
+- También gestion pilot users
+- Planning: reestimar sprint 2
+- Objetivos de los sprints
+- Ia, página final…
