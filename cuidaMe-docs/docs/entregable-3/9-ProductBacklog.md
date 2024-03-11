@@ -1,15 +1,5 @@
 ﻿
-Universidad de Sevilla 
-
-Escuela Técnica Superior de Ingeniería Informática 
-
-![http://recursoshumanos.us.es/images/marca-dos-tintas_300.gif](Aspose.Words.c08cb68d-b52f-45ed-9f04-5458d7fd7c9a.001.png)
-
-
-
 **Product Backlog**
-
-
 
 Grado en Ingeniería Informática – Ingeniería del Software 
 
@@ -20,7 +10,8 @@ Curso 2023 – 2024
 |`  `**Fecha** |`  `**Versión** |
 | - | - |
 |15/02/2024|V1.0|
-
+|27/02/2024|V2.0|
+|09/03/2024|V2.1|
 
 
 |**Entregable:** Sprint 1(#S1)||
