@@ -1,13 +1,4 @@
-﻿Ingeniería del Software y Práctica Profesional/Registro de Costes
-
-
-Universidad de Sevilla 
-
-Escuela Técnica Superior de Ingeniería Informática 
-
-![http://recursoshumanos.us.es/images/marca-dos-tintas_300.gif](Aspose.Words.32ba4805-f160-49e5-82ec-5d15dc9cbe53.001.png)  
-
-<a name="_uc351yvhvv84"></a>**Registro de Costes**
+**Registro de Costes**
 
 Grado en Ingeniería Informática – Ingeniería del Software 
 
@@ -20,6 +11,7 @@ Curso 2023 – 2024
 | :-: | :-: |
 |10/02/2024|v1.0|
 |11/02/2024|V1.1|
+|11/03/2024|V2.0|
 
 
 |**Entregable:** Sprint 1(#S1)||
