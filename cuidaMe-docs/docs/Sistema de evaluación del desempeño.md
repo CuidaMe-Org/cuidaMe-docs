@@ -1,4 +1,6 @@
-﻿**Autor(es):**
+﻿# 🩺 Sistema de evaluación del desempeño
+
+**Autor(es):**
 - Pérez Romero, Lucía
 - Granados López, Manuel Jesús
 

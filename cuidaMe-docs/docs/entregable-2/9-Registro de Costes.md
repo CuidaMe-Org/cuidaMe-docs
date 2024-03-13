@@ -1,4 +1,6 @@
-﻿**Autor(es):**
+﻿# 💸 Registro de Costes
+
+**Autor(es):**
 - García Hernández, Cristina
 - Pérez Romero, Lucía
 - Restoy Barrero, Joaquín

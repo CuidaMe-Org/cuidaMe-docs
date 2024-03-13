@@ -1,4 +1,4 @@
-﻿**Atuor(es):**
+﻿**Autor(es):**
 - García Hernández, Cristina
 
 

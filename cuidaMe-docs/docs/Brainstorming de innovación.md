@@ -1,4 +1,4 @@
-﻿
+﻿# 💡 Brainstorming de innovación
 
 - Foro de eventos entre personas (Anuncios de eventos del tipo: Convivencia sábado 17 de febrero en el parque maria luisa a las 11 am)
 - Añadir apartado de cuidado de mascotas (darles paseos, llevarlas a citas con el veterinario, etc…)
