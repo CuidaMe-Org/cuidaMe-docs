@@ -221,35 +221,36 @@ Necesitamos ≃ 7 611 usuarios clientes anuales
 
 ## Coste real
 
-**Coste herramientas de desarrollo:** Después de un mes el coste de las herramientas utilizadas es de **4573.39€** y el coste total que debe ser al final del desarrollo es de    **13282.27€.**
+**Coste herramientas de desarrollo:** Después de **7 semanas** el coste de las herramientas utilizadas es de **6198,392667** y el coste total que debe ser al final del desarrollo es de    **13282.27€.**
 
 **Coste de empleados real:**
 
--Jefes de proyecto: 1 202.73€
+-Jefes de proyecto: 1 379.21€
 
--Analista funcional: 6899.69€
+-Analista funcional: 7364.07€
 
--Desarrolladores: 7343.16€
+-Desarrolladores: 8202.34€
 
--Tester: 245.55€
+-Tester: 417.89€
 
 **Diferencia de Costes de desarrollo:**
 
-En esta sección veremos la diferencias de costes reales que se llevan hasta este primer sprint, el presupuesto destinado a ese tipo de actividad y el porcentaje del presupuesto gastado:
+`	`En esta sección veremos la diferencias de costes reales que se llevan hasta este primer sprint, el presupuesto destinado a ese tipo de actividad y el porcentaje del presupuesto gastado:
+
+COSTES RRHH DESARROLLO
+
+|Tipo de Rol|Diferencia|Presupuesto restante|Porcentaje consumido|
+| :- | :- | :- | :- |
+|Jefe de proyecto|5187,78|14011,78|15%|
+|Analista funcional|-2163,24|4470,76|64%|
+|Desarrolladores|-5318,4|13164|62%|
+|Tester|2458,07|5904,47|9%|
 
 
-|Tipo de Rol|Diferencia |Presupuesto restante|Porcentaje consumido|
-| :-: | :-: | :-: | :-: |
-|Jefes de proyecto|4 312.27|15 342.27€|7\.26%|
-|Analista funcional|-2 753.44|5539\.06€|55\.46%|
-|Desarrolladores|4 208.34|<p>27311\.34€</p><p></p>|21\.18%|
-|Tester|1908\.45|6 216.45€|3\.79%|
 
+|**Total Gastado**|**PRESUPUESTO DESARROLLO**|**PORCENTAJE CONSUMIDO**|**COSTE ESPERADO**|
+| :- | :- | :- | :- |
+|38747,63|96060,27|40,34|44828,126|
 
-Coste Real: 23 033.29€
-
-Coste Esperado(hasta final de Sprint 1): 23 926.25€
-
-Porcentaje consumido: 32.08%
 
 
