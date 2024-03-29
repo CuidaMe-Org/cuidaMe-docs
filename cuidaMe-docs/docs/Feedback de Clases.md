@@ -646,3 +646,88 @@ Para el 19:
 - Planning: reestimar sprint 2
 - Objetivos de los sprints
 - Ia, página final…
+
+
+## Feedback 19/03
+### **Registro 1**
+Grupo 11 aparking:
+- Cuidado en el tema de ponderación distinguiendo entre documentos y código
+- Falta customer agreement
+- En los casos optimistas/pesimistas indicar de donde han salido los cálculos (tiene que ser en base de num y tipo de cliente)
+- Hay que serguir la guía (orden) que se da
+- Gráfica del sprint, no de cada semana
+- Los grupos que no mantienen el ritmo de entrega, deben replanificar. Supongo que recortar alcance o algo así
+
+Grupo 10 ong cocemfe:
+- Crear commit. agree. con los clientes
+- Seguir el orden que da Carlos
+- Falta estimación de gastos/ingresos a largo/medio plazo en base a numero de clientes
+- Falta estructura y el equipo, y el rendimiento de cada persona del equipo
+- Dedicar diapositiva al reloj del proyecto con el clockify...
+- Indicar el numero de version del commit. agree. (en la diapo se enseña el estado de dicha version)
+- En report IA intentar decir algo más que de valor, ya sea estimaciones de esfuerzos ahorrados, lecciones aprendidas...
+- Calculo de TCO siempre a 2años vista
+- VALIDAR DIRECCION DE CORREO si se logean en la app mediante email (tipica verificación)
+- Practica profesional -> compartir calendarios y encontrar hueco para reunión con TODO el grupo
+
+Grupo 8 catering:
+- De donde sale el número de clientes en las estimaciones?? fijandote en competidores?
+- En la demo tener en cuenta que se vea desde lejos (hacer zoom, lupa, o algo)
+- Expandir algo en tema analisis de riesgos 
+- Hay que entregar un doc con el feedback de los usuarios pilotos
+- Se está distinguiendo entre rendimiento y esfuerzo en la formula de performance???
+- Matriz rendimiento/esfuerzo de los miembros del grupo?? como un cuadrante -> lo optimo cuadro superior derecha
+- Usar herramientas como google o outlook para encontrar disponibilidad horaria
+- Poner huella de carbono IA
+
+Grupo 12 shar3d:
+- Killer opener + story board (no es lo mismo)
+- Enlazar demo con el killer opener buena idea
+- Seguir orden
+
+Grupo 7 ong:
+- No decir tener tiempo libre en planificacion (dividir tareas en mandatory, no mandatory, q gustarían...)
+- Killer opener -> demasiado simple decir problema veo anuncio y descubro, y solucionado. Elaborar algo más el problema y como se solucionaría, NO tan directo, más suave la transición
+- Antes de la demo, explicar que se va a ver -> reduce necesidad de voz en off enlatada, se podría reducir
+- Stats automatizadas muy bien
+- Gráfica de un vistazo como avanza el proyecto
+- Clausulas abusivas -> claudete?
+- TCO siempre a 24 meses
+
+Grupo 9 nosotros:
+- Traspa 13 top
+- Traspa 18 el planning no se ve
+- Intentar rentabilizar las horas que se han echado (tema login social se puede aprovechar)
+- En la demo, hacer cortes en vez de ir x4
+- En la demo usar datos y ejemplos realistas
+- Traspa 23 MÁS información, falta objetivo de la solución y como se va a medir la resolución
+- Traspa 14 no interesa ese gráfico -> riesgo de que github aumente precio pj?. En cada año mirar de forma natural va a subir su precio. También puede reducirse, quizas haga falta menos personal. Que sea una linea recta queda poco realista
+
+Profesores:
+- En clockify tareas de pildoras y revisión de failure conditions
+- Informe de por que estamos satisfacciendo las failure conditions?
+- Todos los docs en docusaurus
+
+Prox dia:
+- Seguir el orden
+- Introducción como hoy: mod negocio, kill opener, analisis competidores (ir del tiron a lo q nos diferencia), NUEVO story board (otro tipo de cliente), customer agreement (que se vea terminos, evitar clausulas abusivas, si hace falta implementacion...), pricing...
+- Analisis del TCO a 2 años -> desarrollo actual + despues (son distintos, varia)
+- Situacion actual vs esperada (misma traspa?)
+- Estimaciones las 3 en misma traspa
+- Equipo -> hacer referencia al commit. agree. si hay cambios
+- Demo del sprint 2 DESPLEGADA
+- DATOS REALES en la demo
+- Indicar que incrementos se ha hecho en la funcionalidad
+- Tras demo: retrospectiva s2 -> rendimiento del equipo (matriz rendimiento/esfuerzo)
+- Mejora del agendamiento (intentar automatizar)
+- Reducion del alcance hay que comentarlo y justificarlo (cuantas horas se han reducido)
+- Analisis de la calidad del software (como va evolucionando)
+- Estimacion de riesgo: ha surgido un problema -> esta solución -> con este objetivo -> como se va a medir que se esta cumpliendo eso IMPORTANTE
+- Changelog automatizado (nuevas funcionalidades, fixes de cosas antiguas...)
+- Reloj de avance del proyecto
+- Gestion de usuarias pilotos (sit actual, feedback, que se va a hacer y q no...)
+- Plan de gestion de ellos del s3
+- Con los usuarios pilotos también hay commit. agree
+- Planificacion: mostrar issues?, replanificaciones?, objetivos s3 (pasarela de pago realista), apis opex
+- Informar uso IA: también analizar como ha MEJORADO su uso
+- Traspa final como siempre
