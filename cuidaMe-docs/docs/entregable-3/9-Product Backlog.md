@@ -37,17 +37,17 @@ Iniciamos un nuevo proyecto, centrado en maximizar el valor para el cliente y me
 |T-37|**—-**|Barra de navegación|3||<p>Mohanad Abulatifa</p><p>(FullStack)</p>|Sprint 1|HECHO|
 |T-38|**—-**|Corrección fallos Semana 1|13||<p>Francisco Javier de la Prada (Backend)</p><p>Álvaro Castellano (frontend)</p>|Sprint 1|HECHO|
 |T-39|**—-**|Registro de costes|5||<p>Lucía Pérez</p><p>Cristina García</p>|Sprint 1|HECHO|
-|T-11|RF-11|Pasarela de pago para planes de suscripción|5|T-10||Sprint 2||
-|T-14|**–**|Base de datos|8|||Sprint 2||
-|T-17|RF-14|Videollamada|20|||Sprint 2||
-|T-18|RF-13|Mapa|20|||Sprint 2||
-|T-20|RF-15|Login con otras cuentas: google, facebook…|20|T-01||Sprint 2||
-|T-21|RF-16|Gestión de usuarios, ofertas y chats por el administrador|13|T-03 y T-08||Sprint 2||
-|T-42|—--|Foro|8|||Sprint 2||
+|T-11|RF-11|Pasarela de pago para planes de suscripción|5|T-10||Sprint 2|HECHO|
+|T-14|**–**|Base de datos|8|||Sprint 3||
+|T-17|RF-14|Videollamada|20|||Sprint 2|HECHO|
+|T-18|RF-13|Mapa|20|||Sprint 2|HECHO|
+|T-20|RF-15|Login social con Google|20|T-01||Sprint 2|HECHO|
+|T-21|RF-16|Gestión de usuarios, ofertas y chats por el administrador|13|T-03 y T-08||Sprint 2|HECHO|
+|T-42|—--|Foro|8|||Sprint 2|HECHO|
 |T-16|RI-06|Tutorial de la aplicación|5|||Sprint 3||
 |T-43|**–**|Calendario y Alarmas|20|||Sprint 3||
 |T-44|**–**|Diario compartido|20|||Sprint 3||
-|T-45|**–**|Notificación de ofertas|8|||Sprint 3||
+|T-45|**–**|Notificación de ofertas|8|||Sprint 3|HECHO|
 |T-12|**–**|Retrospective|3|||Sprint X||
 |T-13|**–**|Despliegue|8|||Sprint X||
 |T-19|**–**|Usuarios pilotos app grupo 3|20|||Sprint X||
