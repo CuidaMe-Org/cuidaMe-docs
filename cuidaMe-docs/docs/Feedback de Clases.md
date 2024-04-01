@@ -12,6 +12,7 @@
 |27/02/2024|v1.2|
 |10/03/2024|v1.3|
 |29/03/2024|v1.4|
+|01/04/2024|v1.5|
 
 
 ## Feedback 06/02
@@ -732,3 +733,62 @@ Prox dia:
 - Planificacion: mostrar issues?, replanificaciones?, objetivos s3 (pasarela de pago realista), apis opex
 - Informar uso IA: también analizar como ha MEJORADO su uso
 - Traspa final como siempre
+
+### **Registro 2**
+Grupo aparcamientos
+- En el agreement tiene que estar reflejado quien da pesos de las tareas. 
+- Customer agreement hay que hablar sobre él.
+- Gráficas de costes de donde vienen los números? Son los usuarios? Si son así cuántos? La gráfica tiene que ser en cuanto a número de usuarios y según tipo plan/optimista/realista pesimista.
+- Cuando se habla de algo , todo lo que sea del mismo tema tiene que ir junto.
+- Las gráficas del estado del proyecto que sean por sprint.
+- No tener diagramas muy grandes y que no se este enfocado en la información que se quiere dar.
+- Que una gráfica de barra este mal puede ser porque esté mal estimado o que haya un bloqueo y el rendimiento no sea el esperado.
+Es decir si hay desviaciones será por los problemas que han surgido.
+-  Plataforma de pago tiene que estar funcionando al 100% para el sprint 2.
+- Tener estimaciones realistas.
+
+Grupo cocemfe
+- Tener el comiment agreement con los usuarios pilotos.
+-  Rendimiento del equipo?? De cada momento 
+- Reloj del proyecto???? 
+- Evolución tco a 2 años.
+- Confirmación de  la cuenta de correo electrónico.
+
+Grupo catering 
+- En las gráficas de donde sale los números de clientes???? 
+- La demostración se tiene  que ver bien.
+-  Estado de los riesgos?? Como los solucionáis?
+-  Distinguir entre rendimiento y esfuerzo y reflejarlo en una matriz. 
+
+Grupo 3D 
+- si usas un personaje en concreto para hablar de un caso de uso de la app al hacer la demo, hacer referencia a esa persona.
+- Como controláis los derechos de autor.
+Para nosotros sería algo como controlar que no se pasen los tlfns y hablen por otro lado.
+- El orden de la presentación es importante.
+
+Grupo harmony 
+- Story board está muy chulo y plantear una situación interesante que haga que tu app sea esencial.
+-  Antes de poner la demo, explica que vamos a ver.
+- Gráfica de avance del proyecto con respecto dinero/puntos de historia
+- Gráfica con las estimaciones optimistas/realistas/pesimista.
+- Que papel juega el LSA en el TCO?? 
+- TCO a 24 meses 
+
+Nuestro grupo
+-  diapositiva 18 no se ve claramente.
+- Disminuir tiempo demo , quitar tiempos de rellenar formularios.
+- Demo con datos realistas 
+- Matriz accis fuera 
+- Cuando haya un problema tener la solución clara 
+-  Gráficos con análisis interesantes, por ejemplo el uso de GitHub puede cambiar con respecto a los años, hacer estimaciones a año teniendo en cuenta los cambios que puede haber como inflaciones y que no sea algo lineal a 4 años.
+
+FEEDBACK GENERAL/PROXIMA SEMANA
+- Intro modelo negocio, killer opener, elevator pitch, análisis de competidores (ir directamente a lo que nos hace diferente), nuevo story board! 
+Customer agreement con términos de servicio, evitar causas abusivas (análisis de clauddette), pricing, LSA, aceptación de este
+- Resumen del TCO A 2 años, diferenciando desarrollo con lo que viene después teniendo cuenta capex opex , situación actual con respecto a lo esperado( hacer una gráfica) con pesimistas, realista, optimista pildora teórica verla y aplicarla
+- Roles equipo y comiment agreement enseñarlo 
+- demo sprint 2 ya desplegada, datos reales e indicar el incremento con respecto al sprint 1/semana anterior . Está bien hacerlo con la estructura de changelog
+- retrospectiva sprint 2, rendimiento del equipo (matriz rendimiento y esfuerzo eje x esfuerzo y rendimiento), mejora del agendamiento para las reuniones (es decir que estén puestas en un calendario), reducción del alcance del trabajo y justificarlo (reducción de horas y el porqué), análisis del calidad del software y como va evolucionando, como se solucionan los problemas y con qué objetivo y como medimos que se soluciona dicho problema para ver si la solución dada funciona o no, crear un changelog automatizado de los cambios, reloj avance del proyecto 
+- Gestion de usuarios pilotos, estado actual, feedback recibido, acciones realizadas con respecto al feedback, preparar plan gestion usuario pilotos sprint 3 , ca con ellos.
+-  planificación, screenshot de issues de planificación, objetivos sprint 3, API de validez de cuenta de correos, analizar como ha mejorado el uso de la IA, huella de carbono , lecciones aprendidas, alucinaciones de la oa
+- Trasparencia final con landing page (lo de siempre)
