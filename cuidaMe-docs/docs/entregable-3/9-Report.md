@@ -60,7 +60,7 @@ Cabe recalcar que nuestro grupo cuenta con una Wiki personal, la cual puede enco
 - Crear un informe más detallado del uso de la IA en el proyecto, destacando sus beneficios y áreas de mejora, y dando ejemplos. Puede ser una sección de la Wiki.
 - Identificar y evaluar los posibles riesgos a lo largo del proyecto, utilizando herramientas y técnicas apropiadas vistas en las píldoras.
 
-
+### Acciones de consolidación
 Tras este feedback, respecto a la presentación, lo más destacable que tuvimos en cuenta para la siguiente exposición fue el llevar un orden coherente en esta, ya que por ejemplo, empezar a hablar sobre los competidores antes que de lo que va nuestra propia aplicación no tiene mucho sentido y puede hacer que el espectador se pierda.
 
 Por otro lado, otros temas de importancia que pudimos mejorar gracias al feedback fueron: el TCO, ya que nos dimos cuenta que habíamos dejado muchos costes fuera de este; y el análisis DAFO, porque estábamos comentando debilidades relacionadas con nosotros en vez de con la aplicación.
@@ -212,6 +212,9 @@ Teniendo en cuenta el feedback recibido esta semana, podemos destacar los siguie
 - Mostrar demo del prototipo desplegado, con el core más las nuevas funcionalidades con datos reales.
 - Realizar una retrospectiva detallada del proyecto, analizando tendencias y resultados.
 
+### Acciones de consolidación
+Tras analizar el feedback anterior, el mayor cambio que hemos hecho gracias a este ha sido la migración de toda nuestra wiki personal y documentos a Docusaurus, por lo que a partir de ahora toda nuestra documentación se encontrará ahí. También se han tenido en cuenta aspectos importantes como la correcta organización del workspace de clockify.
+
 
 ## **[​Semana 7](https://bgcc.vercel.app/docs/Grupos%20de%20tarde/Grupo%209#semana-7)**
 ### Temas que mejorar en las presentaciones
@@ -239,4 +242,7 @@ Teniendo en cuenta el feedback recibido esta semana, podemos destacar los siguie
 - Monitorear el progreso del proyecto utilizando un reloj de avance y un plan de gestión para los usuarios pilotos.
 - Informar sobre el uso de IA y analizar cómo ha mejorado su uso para proporcionar una visión más completa de su impacto en el proyecto.
 - Implementar herramientas de agendamiento y reducción de alcance según sea necesario para mejorar la eficiencia del equipo.
+
+### Acciones de consolidación
+Según lo recogido en el feedback, podemos destacar aspectos que hemos aprendido como que debemos tener un commitment agreement con los clientes, ya que tenerlo apalabrado no sirve de nada si no se tiene un acuerdo firmado que te pueda quitar de problemas en un futuro. También es necesario recalcar la importancia que tiene la revisión de documentos como el de análisis de riesgos o los commitment agreements, ya que es algo que se suele olvidar hacer tras finalizarlos.
 
