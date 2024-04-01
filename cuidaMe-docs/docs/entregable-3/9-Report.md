@@ -1,4 +1,6 @@
-﻿**Autor(es):**
+﻿# Contribuciones a la BBDD común
+
+**Autor(es):**
 - Castellano Alonso, Álvaro
 - García Galocha, Rafael David
 - Suárez GArcía, Antonio José
