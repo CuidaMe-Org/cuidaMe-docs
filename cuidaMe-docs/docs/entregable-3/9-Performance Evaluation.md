@@ -3,36 +3,39 @@
 **Autor(es):**
 - Castellano Alonso, Álvaro
 - De la Prada Prados, Francisco Javier
+- Granados López, Manuel Jesús
 
 |**Fecha**|**Versión**|
 | :-: | :-: |
 |19/02/2024|v1.0|
 |04/03/2024|v2.0|
+|01/04/2024|v3.0|
 
 
 
 
 ## Agreed Individual Performance Evaluation
 
+
 |**Student**|**#DP1**|**#S1**|**#S2**|**#S3**|**#PPL**|**#WPL**|**Total**|**Weight**|
 | :- | :-: | :- | :- | :- | :- | :- | :- | :- |
-|**Abulatifa, Mohanad J. D.** |**10**|**10**|||||||
-|**Castellano Alonso, Álvaro**|**10**|**10**|||||||
-|**De La Prada Prados, Francisco Javier**|**10**|**10**|||||||
-|**Del Rio Perez, Carlos**|**9**|**10**|||||||
-|**Diáñez Suárez, Daniel**|**10**|**10**|||||||
-|**García Galocha, Rafael David**|**10**|**10**|||||||
-|**Garcia Hernandez, Cristina**|**10**|**10**|||||||
-|**Granados Lopez, Manuel Jesús**|**10**|**10**|||||||
-|**Jiménez Del Villar, Juan Antonio**|**10**|**10**|||||||
-|**Marquez Gonzalez, Diego**|**10**|**10**|||||||
-|**León Madroñal, Juan Carlos**|**10**|**10**|||||||
-|**Perez Romero, Lucía**|**10**|**10**|||||||
-|**Restoy Barrero, Joaquín**|**10**|**10**|||||||
-|**Suárez García, Antonio José**|**9**|**10**|||||||
-|**Vazquez Rodriguez, Fausto**|**10**|**10**|||||||
-|**Vidal Tevar, Gabriel**|**9**|**9**|||||||
-|**Total**|**157**|**159**|||||||
+|**Abulatifa, Mohanad J. D.** |**10**|**10**|**10**||||||
+|**Castellano Alonso, Álvaro**|**10**|**10**|**10**||||||
+|**De La Prada Prados, Francisco Javier**|**10**|**10**|**10**||||||
+|**Del Rio Perez, Carlos**|**9**|**10**|**10**||||||
+|**Diáñez Suárez, Daniel**|**10**|**10**|**10**||||||
+|**García Galocha, Rafael David**|**10**|**10**|**10**||||||
+|**Garcia Hernandez, Cristina**|**10**|**10**|**10**||||||
+|**Granados Lopez, Manuel Jesús**|**10**|**10**|**10**||||||
+|**Jiménez Del Villar, Juan Antonio**|**10**|**10**|**10**||||||
+|**Marquez Gonzalez, Diego**|**10**|**10**|**10**||||||
+|**León Madroñal, Juan Carlos**|**10**|**10**|**10**||||||
+|**Perez Romero, Lucía**|**10**|**10**|**10**||||||
+|**Restoy Barrero, Joaquín**|**10**|**10**|**10**||||||
+|**Suárez García, Antonio José**|**9**|**10**|**10**||||||
+|**Vazquez Rodriguez, Fausto**|**10**|**10**|**10**||||||
+|**Vidal Tevar, Gabriel**|**9**|**9**|**10**||||||
+|**Total**|**157**|**159**|**160**||||||
 
 
 
@@ -81,6 +84,29 @@
 |**Suárez García, Antonio José**|<p>- Configuración del workflow para aplicar integración continua</p><p>- Migración completa de la documentación desde Google Drive a Docusaurus</p><p>- Actualización de estadísticas en el documento de Herramientas y Tecnologías</p>|
 |**Vazquez Rodriguez, Fausto**|<p>- Creación de los documentos Orden del día, Gestión de la configuración y Diagrama de Gantt</p><p>- Frontend de listado, búsqueda y creación de ofertas</p><p>- Actualización del documento Herramientas y Tecnologías</p>|
 |**Vidal Tevar, Gabriel**|<p>- Pasarela de pago</p><p>- Página sobre nosotros</p><p>- Diagrama de clases</p>|
+
+
+### Sprint 2 (#S2)
+
+|**Abulatifa, Mohanad J. D.** |<p>- Feedback grupo de por la mañana</p><p>- Tarea perfil de admin con sus funcionalidad de editar borrar y listar </p><p>- Tarea arreglar errores en publicar anuncios</p><p>- poner desplegable con buscador con autocompletado</p><p>- la página de inicio “home” para que se vea como el mockup</p><p>- Resolver conflictos y codacy en varias tareas</p><p>- traducir algunas partes del frontend a español</p><p>- Feedback grupo de por la mañana segunda vez.</p>|
+| - | - |
+|**Castellano Alonso, Álvaro**|<p>- Tests del grupo de mañana</p><p>- Organización del subgrupo 2</p><p>- Documento de planificación de la comunicación con los usuarios pilotos</p><p>- Documento de feedback de usuarios pilotos</p><p>- Formulario para usuarios piloto externos</p><p>- Revisión de PRs subgrupo 2</p><p>- Task#168-backend: resolución conflictos y ayuda en la PR</p><p>- Navbar (Finalmente se reasignó la tarea a otro compañero)</p>|
+|**De La Prada Prados, Francisco Javier**|<p>- Análisis de la tarea de videollamadas</p><p>&emsp;- Viabilidad </p><p>&emsp;- Implementación</p><p>&emsp;- Tecnología a usar</p><p>&emsp;- Desglose de la tarea</p><p>&emsp;&emsp;</p><p>- Realizar servicio de videollamadas</p><p>&emsp;- Implementación de la API Agora</p><p>&emsp;- Creación de salas</p><p>&emsp;- Unirse a sala</p><p>&emsp;- Cámara y audio</p><p>&emsp;- Vistas necesarias (frontend)</p><p>&emsp;&emsp;</p><p>- Realizar los apartados y preparar la presentación 19/03</p><p>- Realizar los apartados y preparar la presentación 01/04</p>|
+|**Del Rio Perez, Carlos**|<p>- Corregir todo el frontend para que sea responsive.</p><p>- Pasar frontend de inglés a español.</p><p>- Crear storyboard.</p><p>- Time effort report</p>|
+|**Diáñez Suárez, Daniel**|<p>- Corregir el backend y frontend de todo lo referido a la tarea del chat.</p><p>- Documento 0-Sprint Retrospective.</p><p>- Testear en varias ocasiones la aplicación de los compañeros del grupo 3.</p><p>- Crear la página para la aplicación de preguntas frecuentes.</p>|
+|**García Galocha, Rafael David**|<p>- Relacionado con el Feedback semana 5 y 7:</p><p>&emsp;- Recogida, resumen y reorganización</p><p>&emsp;- Pasar feedback a la wiki personal</p><p>&emsp;- Gestión de la Base de Conocimiento Grupal</p><p>&emsp;- Subida a la BCG como representante del G9</p><p>- Documento Contribuciones a la BBDD común</p><p>- Implementación de toda la funcionalidad del mapa de ofertas</p>|
+|**Garcia Hernandez, Cristina**|<p>- Backend foro</p><p>- Correción de fallos</p><p>- Revisión de pull request</p><p>- Despliegue</p><p>- Feedback 19/03 (recolección y adición a la wiki)</p>|
+|**Granados Lopez, Manuel Jesús**|<p>- Esquema borrador presentación semanal</p><p>- Revisión de cargas de trabajo, pautas para líderes</p><p>- Evaluación de desempeño subjetiva</p><p>- Comprobación/aprobación Pull Requests</p><p>- Gestión de tareas de documentación</p><p>- Coordinación testeo app grupo de mañana</p><p>- Creación tests de app para que nos la haga el grupo de mañana</p><p>- Negociación/elaboración Commitment Agreement con grupo de mañana para testeo mutuo de apps.</p>|
+|**Jiménez Del Villar, Juan Antonio**|<p>- Funcionalidad Mapa</p><p>- Añadir casilla de confirmación sobre lectura y aceptación de términos y condiciones en los formularios de inscripción</p><p>- Testear y dar feedback varias veces la aplicación del grupo 3 de mañana</p><p>- Documento Registro de uso de la IA</p><p>- Documento Performance Evaluation</p>|
+|**Marquez Gonzalez, Diego**|<p>- Funcionalidad Videollamada (Backend y Frontend)</p><p>- Testear y dar feedback a la aplicación del grupo 3 de mañana</p><p>- Realizar las presentaciones de cada semana</p><p>- Preparar las presentaciones</p>|
+|**León Madroñal, Juan Carlos**|<p>- Organización de subgrupo 3</p><p>- Fix del chat hecho en el sprint 1</p><p>&emsp;- Añadir persistencia de mensajes</p><p>&emsp;- Ajustar frontend y añadir separación de mensajes por fecha</p><p>- Tests de grupo de mañana</p><p>- Revisión y corrección de PR de fix visual tras sprint 1</p><p>- Migración de alguna documentación al nuevo repo de docusaurus</p><p>- Revisión general de PRs</p>|
+|**Perez Romero, Lucía**|<p>- Organización de Subgrupos</p><p>- Registro de Costes</p><p>- Registro de Requisitos</p><p>- Product Backlog</p><p>- Sprint Planning</p><p>- Login con Facebook (no pude finalizarlo)</p><p>- CRUD Intereses</p><p>- Corrección de registro de Cuidador y Cliente</p><p>- Notificación de oferta por correo electrónico</p><p>- Story Board</p><p>- Política de privacidad</p><p>- Revisión de pull request</p>|
+|**Restoy Barrero, Joaquín**|<p>- Fix de errores en test existentes</p><p>- Actualización Registro de costes</p><p>- Test de backend de chat, foro y ampliación de offer</p><p>- Test de visualización de login y registro</p>|
+|**Suárez García, Antonio José**|<p>- Mejorada la búsqueda en Docusaurus</p><p>- Arreglos al header</p><p>- Ejercer de usuario piloto para el grupo de la mañana</p><p>- Tarea #188 con correcciones variadas</p>|
+|**Vazquez Rodriguez, Fausto**|<p>- Creación del documento de Orden del día</p><p>- Frontend del foro</p><p>- Actualización de los documentos: Herramientas y Tecnologías (con estadísticas), Diagrama de Gantt, Plan de Gestión de la Configuración y Esquema de Trabajo Semanal</p>|
+|**Vidal Tevar, Gabriel**|<p>- Bug: Arreglos en el perfil</p><p>- Registro de usuario con google</p><p>- Revisión de pull request</p><p></p>|
+
+
 
 
 

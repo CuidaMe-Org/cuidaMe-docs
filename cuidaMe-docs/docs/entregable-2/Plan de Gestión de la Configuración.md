@@ -20,7 +20,7 @@ Los perfiles implicados en la gestión de la configuración son:
 
 ## Herramientas y Tecnologías
 En el documento llamado herramientas y tecnologías se hace un resumen de los elementos software externos a la organización y las versiones correspondientes de cada uno para garantizar un correcto funcionamiento del proyecto.
-Página 			CuidaME / Grupo 2.9
+
 ## Elementos
 
 

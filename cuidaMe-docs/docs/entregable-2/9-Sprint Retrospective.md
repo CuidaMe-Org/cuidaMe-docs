@@ -1,4 +1,6 @@
-﻿**Autor(es):**
+﻿# Sprint Retrospective Sprint 1(#S1)
+
+**Autor(es):**
 - García Hernández, Cristina
 
 
@@ -24,4 +26,4 @@ Esta fue nuestra planificación para este Sprint, conseguimos completar 5 tareas
 
 ## Conclusión
 En general ha sido un buen Sprint, pero debemos llevar más control y estar más pendientes a los posibles conflictos para evitar retrasos e inconvenientes en el desarrollo.
-Página 			CuidaME / Grupo 2.9
+

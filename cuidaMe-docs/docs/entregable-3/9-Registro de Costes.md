@@ -11,6 +11,7 @@
 |10/02/2024|v1.0|
 |11/02/2024|V1.1|
 |11/03/2024|V2.0|
+|18/03/2024|V2.1|
 
 ## Introducción
 Este documento hace un análisis de los costes incurridos en el desarrollo del proyecto, y del mantenimiento de la aplicación ya en producción. Con este análisis podemos evaluar la viabilidad tanto del proyecto como de la aplicación ya desarrollada.
@@ -235,22 +236,22 @@ Necesitamos ≃ 7 611 usuarios clientes anuales
 
 **Diferencia de Costes de desarrollo:**
 
-`	`En esta sección veremos la diferencias de costes reales que se llevan hasta este primer sprint, el presupuesto destinado a ese tipo de actividad y el porcentaje del presupuesto gastado:
+En esta sección veremos la diferencias de costes reales que se llevan hasta este primer sprint, el presupuesto destinado a ese tipo de actividad y el porcentaje del presupuesto gastado:
 
-COSTES RRHH DESARROLLO
+## COSTES RRHH DESARROLLO
 
 |Tipo de Rol|Diferencia|Presupuesto restante|Porcentaje consumido|
 | :- | :- | :- | :- |
-|Jefe de proyecto|5187,78|14011,78|15%|
-|Analista funcional|-2163,24|4470,76|64%|
-|Desarrolladores|-5318,4|13164|62%|
-|Tester|2458,07|5904,47|9%|
+|Jefe de proyecto|7904,8|13419,83|19%|
+|Analista funcional|-492,57|3653,68|71%|
+|Desarrolladores|-2386,45|9165,05|74%|
+|Tester|3181,1|5335,1|17%|
 
 
 
 |**Total Gastado**|**PRESUPUESTO DESARROLLO**|**PORCENTAJE CONSUMIDO**|**COSTE ESPERADO**|
 | :- | :- | :- | :- |
-|38747,63|96060,27|40,34|44828,126|
+|47381,44|96060,27|49,3|64040,18|
 
 
 
