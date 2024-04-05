@@ -11,6 +11,7 @@
 |10/02/2024|v1.2|
 |19/02/2024|v1.3|
 |04/03/2024|v.2.0|
+|05/04/2024|v.3.0|
 
 
 ## Introducción
@@ -20,32 +21,49 @@ Además, se incluyen varias tablas para analizar las estadísticas de contenido 
 ## Resumen
 ### Herramientas del Equipo
 
-
 |**ÁMBITO**|**HERRAMIENTA**|**ENLACE**|
 | :-: | :-: | :-: |
 |Comunicación|Whatsapp|-|
 |Comunicación|Discord|https://discord.gg/fY5J4Jk4|
 |Control del Tiempo|Clockify|https://app.clockify.me/es/login|
 |Documentación|Google Drive|https://drive.google.com/drive/folders/10LXvqf9D517EPvv3yxgt7VAsoGj6ynkS?usp=sharing|
-|Repositorio|GitHub|https://github.com/Galeon2098/CuidaME.git|
+|Repositorio|GitHub (Código)|https://github.com/Galeon2098/CuidaME.git|
+|Repositorio|GitHub (Documentación)|https://github.com/CuidaMe-Org/cuidaMe-docs|
 |Presentaciones|Canva|https://www.canva.com/|
-|Wiki del Grupo|Wikidot|http://cuidame.wikidot.com/|
+|Wiki del Grupo|Wikidot (Obsoleta)|http://cuidame.wikidot.com/|
+|Wiki del Grupo|Docusaurus|https://cuida-me-docs-sigma.vercel.app/docs/grupo|
 |Wiki de la Asignatura|Docusaurus|https://bgcc.vercel.app/|
 |Mockups|Marvel App|https://marvelapp.com/prototype/7d58gha|
+|Gestión de Proyectos|Github Project|-|
+|Pruebas automáticas|Github Actions|-|
 
 ### Tecnologías
 
 |**ÁMBITO**|**HERRAMIENTA**|**COMENTARIOS**|
 | :-: | :-: | :-: |
-|Control de Versiones|Git|Descargar en: https://git-scm.com/downloads |
-|Base de Datos|PostgreSQL|Descargar en: https://www.postgresql.org/download/ |
-|Back-end|Python|-|
-|Back-end|Django|-|
-|Front-end|Node.js|Descargar en: https://nodejs.org/en/download/current |
-|Front-end|React|-|
-|Front-end|Wix|Landing Page|
+|Control de Versiones|Git|Descargar en: https://git-scm.com/downloads|
+|Entorno de Desarrollo|Visual Studio Code (Recomendado)|-|
+|Lanzamiento de la Wiki del Grupo|Node.js|Descargar en: https://nodejs.org/en/download|
+|Base de Datos|SQL|Por defecto en django. Usar extensión en VSCode: SQLite Viewer|
+|Base de Datos|PostgreSQL|Usada en el despliegue. Descargar en: https://www.postgresql.org/download/|
+|Back-end|Python|Versión: 3.10. Descargar en: https://www.python.org/downloads/|
+|Back-end|Django|Versión: 4.1.1. Descargar con el comando: python -m pip install django==4.1.1|
+|Front-end|CSS|-|
+|Front-end|HTML|-|
+|Landing Page|Wix|-|
+|Análisis de Código|Codacy|En todas las pull requests|
+|Análisis de Código|SonarCloud|En los pull request hacia develop y master|
+|Análisis de Trabajo|BlueJ|-|
 
-Para más información sobre la descarga, instalación y uso de las diferentes tecnologías consultar el documento Instrucciones para la instalación del entorno de trabajo y sobre el formato de los commits y la estrategia de ramas
+### Despliegues
+
+|**DESPLIEGUE**|**ENLACE**|
+| :-: | :-: |
+|Despliegue Sprint 1|https://ispp-09-cuidame.oa.r.appspot.com|
+|Despliegue Sprint 2|https://cuidamesprint2.ew.r.appspot.com|
+|Despliegue Sprint 3|-|
+|Despliegue Preparing Project Launch|-|
+|Despliegue World Project Launch|-|
 
 ## Aplicaciones Importantes
 ### Discord
@@ -121,14 +139,16 @@ Se crea un repositorio llamado CuidaME al que tienen acceso todos los miembros d
 - Permite llevar un control de versiones.
 
 
-### Wikidot
+### Docusaurus
 **Ámbito y Utilidad**
 
-Wikidot se emplea como servicio web para el alojamiento y la construcción de la wiki por parte del grupo de trabajo. El espacio formado para el proyecto proporciona un control de la información básica a la vez que permite un acceso libre a cualquiera que lo deseara.
+Docusaurus se emplea como servicio web para la construcción de la wiki por parte del grupo de trabajo mediante la tecnología react. El espacio formado para el proyecto proporciona un control de la información básica a la vez que permite un acceso libre a cualquiera que lo deseara.
 
 **Uso y Estructura**
 
-Se crea una wiki llamada CuidaMe en el espacio cuidame.wikidot. El acceso es de carácter libre, pero la capacidad de edición y modificación se reserva a unos pocos integrantes del grupo del proyecto. Para entrar en el equipo de administración hay que solicitarlo a alguno de los miembros que ya están en él. A priori no existe una estructura concreta en la organización de las páginas si no que va evolucionando conforme lo hace el proyecto.
+Antes se usaban los servicios de Wikidot con una wiki creada llamada CuidaMe en el espacio cuidame.wikidot. El acceso era de carácter libre, pero la capacidad de edición y modificación se reservaba a unos pocos integrantes del grupo del proyecto. 
+
+Actualmente se hace uso de Docusaurus. Para ello se tiene un repositorio donde está implementado toda la estructura del servicio y en el que se hallan los documentos más importantes, siguiendo el formato Markdown. Además, está desplegada de forma online para que sea accesible por cualquier persona que lo considere. La capacidad de edición y modificación la posee todos los miembros del equipo.
 
 **Ventajas**
 
@@ -136,6 +156,7 @@ Se crea una wiki llamada CuidaMe en el espacio cuidame.wikidot. El acceso es de 
 - Permite llevar un control de la información por parte del grupo.
 - La wiki creada es de acceso libre.
 - Posee multitud de opciones de personalización.
+- Permite mantener un formato común gracias al lenguaje Markdown.
 
 
 ### Otros
@@ -159,92 +180,96 @@ Para la creación de páginas estáticas de forma asistida. Utilizada para la cr
 ### Reloj - Clockify
 El reloj se usa como estadística para medir el tiempo invertido por cada miembro en una semana. Los datos son obtenidos de la herramienta de control de tiempo clockify, contabilizando las semanas desde el martes en el que se imparte la clase hasta el lunes siguiente. Cabe destacar que tiene un grado de precisión de minutos, y siempre se aproxima con un redondeo hacia arriba. Además se lleva el control tanto a nivel individual (contabilizando los incrementos y las horas restantes de trabajo), como colectivo
 
-Reloj Individual(horas restantes):
+Reloj Individual (Horas Restantes):
 
 
-|**Estudiante**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Semana 15**|**Total**|
-| :-: | :-: | :-: | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
-|Abulatifa, Mohanad|150: 00|142: 38|129: 26|121: 15| 107:39|96:26 | | | | | | | | | | |
-|Castellano Alonso, Álvaro|150: 00|139: 55|128 :08|118: 13| 105:10|90:11 | | | | | | | | | | |
-|De La Prada Prados, Francisco Javier|150: 00|140: 08|126: 18|114: 23|104:03 | 96:03| | | | | | | | | | |
-|Del Río Pérez, Carlos|150: 00|143: 53|135: 09|126: 25| 112:53|101:21 | | | | | | | | | | |
-|Diáñez Suárez, Daniel|150: 00|141: 50|126: 33|118: 10| 106: 39|92:18 | | | | | | | | | | |
-|García Galocha, Rafael David|150: 00|141: 19|130: 38|120: 18|110:09 |95:04 | | | | | | | | | | |
-|García Hernández, Cristina|150: 00|140: 05|129: 49|117: 55|107:27 |91:21 | | | | | | | | | | |
-|Granados López, Manuel J.|150: 00|139: 30|129: 30|116: 35|104:25 |94:45 | | | | | | | | | | |
-|Jiménez Del Villar, Juan Antonio|150: 00|142: 15|137: 33|124: 26| 112:21|99:59 | | | | | | | | | | |
-|León Madroñal, Juan Carlos|150: 00|141: 42|129: 10|119: 18|108:47 |97:12 | | | | | | | | | | |
-|Márquez González, Diego|150: 00|139: 20|127: 32|113: 30| 100:22|95:52 | | | | | | | | | | |
-|Pérez Romero, Lucía|150: 00|140: 10|130: 10|117: 00| 97:51| 87:43| | | | | | | | | | |
-|Restoy Barrero, Joaquín|150: 00|142: 45|132: 04|119: 53|106:47 | 99:02| | | | | | | | | | |
-|Suárez García, Antonio J.|150: 00|146: 00|144: 00|128: 24| 117:05|99:50 | | | | | | | | | | |
-|Vázquez Rodríguez, Fausto|150: 00|143: 53|131: 49|120: 09|105:42 |90:37 | | | | | | | | | | |
-|Vidal Tevar, Gabriel|150: 00|146: 00|137: 39|128: 30|119:18 | 110:58| | | | | | | | | | |
+|**Estudiante**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Abulatifa, Mohanad|140:00|132:38|119:26|111:15|97:39|86:26|78:51|61:22|60:49|-|-|-|-|-|-|
+|Castellano Alonso, Álvaro|140:00|129:55|118:08|108:14|95:10|80:11|69:29|59:59|46:42|-|-|-|-|-|-|
+|De La Prada Prados, Francisco Javier|140:00|130:08|116:18|104:23|94:03|86:03|75:33|65:28|54:19|-|-|-|-|-|-|
+|Del Río Pérez, Carlos|140:00|133:53|125:09|116:25|102:53|91:21|81:26|70:13|62:41|-|-|-|-|-|-|
+|Diáñez Suárez, Daniel|140:00|131:50|116:33|108:11|96:39|82:18|72:00|66:53|54:44|-|-|-|-|-|-|
+|García Galocha, Rafael David|140:00|131:19|120:38|110:19|100:09|85:04|73:20|64:19|53:36|-|-|-|-|-|-|
+|García Hernández, Cristina|140:00|130:05|119:49|107:55|97:27|75:25|65:45|56:49|25:06|-|-|-|-|-|-|
+|Granados López, Manuel J.|140:00|129:30|119:30|106:35|94:25|84:45|74:35|68:00|53:42|-|-|-|-|-|-|
+|Jiménez Del Villar, Juan Antonio|140:00|132:15|127:33|114:27|102:21|89:59|81:21|75:13|63:17|-|-|-|-|-|-|
+|León Madroñal, Juan Carlos|140:00|131:42|119:10|109:19|98:47|87:12|80:53|70:16|58:25|-|-|-|-|-|-|
+|Márquez González, Diego|140:00|129:00|116:51|102:49|90:22|84:15|74:04|64:13|53:25|-|-|-|-|-|-|
+|Pérez Romero, Lucía|140:00|130:10|120:10|107:00|87:51|77:43|67:41|52:21|31:51|-|-|-|-|-|-|
+|Restoy Barrero, Joaquín|140:00|132:45|122:04|109:53|96:47|83:06|74:18|69:24|51:06|-|-|-|-|-|-|
+|Suárez García, Antonio J.|140:00|136:00|134:00|118:24|107:05|85:45|79:17|75:04|60:07|-|-|-|-|-|-|
+|Vázquez Rodríguez, Fausto|140:00|133:53|121:49|110:09|95:42|80:37|69:39|59:38|46:45|-|-|-|-|-|-|
+|Vidal Tevar, Gabriel|140:00|136:00|127:39|118:31|109:18|100:58|94:58|85:46|66:29|-|-|-|-|-|-|
 
-Reloj Individual(horas trabajadas):
-
-
-|**Estudiante**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Semana 15**|**Total**|
-| :-: | :-: | :-: | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
-|Abulatifa, Mohanad|0:00|7:22|13:13|8:11| 13:36|11:13 | | | | | | | | | | |
-|Castellano Alonso, Álvaro|0:00|10:05|11:47|9:55| 13:04|14:59 | | | | | | | | | | |
-|De La Prada Prados, Francisco Javier|0:00|9:52|13:50|11:55|10:20 |8:00 | | | | | | | | | | |
-|Del Río Pérez, Carlos|0:00|6:07|8:45|8:44|13:33 |11:32 | | | | | | | | | | |
-|Diáñez Suárez, Daniel|0:00|8:10|15:17|8:23|11:32 |14:21 | | | | | | | | | | |
-|García Galocha, Rafael David|0:00|8:41|10:41|10:20|10:10 |15:05 | | | | | | | | | | |
-|García Hernández, Cristina|0:00|9:55|10:16|11:54|10:28 |16:06 | | | | | | | | | | |
-|Granados López, Manuel J.|0:00|10:30|10:00|12:55| 12:10| 9:40| | | | | | | | | | |
-|Jiménez Del Villar, Juan Antonio|0:00|7:45|4:42|13:07|12:06 |12:22 | | | | | | | | | | |
-|León Madroñal, Juan Carlos|0:00|8:18|12:32|9:52| 10:32|11:35 | | | | | | | | | | |
-|Márquez González, Diego|0:00|10:40|11:49|14:02| 12:28|4:30 | | | | | | | | | | |
-|Pérez Romero, Lucía|0:00|9:50|10:00|13:10|19:09 | 10:08| | | | | | | | | | |
-|Restoy Barrero, Joaquín|0:00|7:15|10:41|12:11|13:06 | 7:45| | | | | | | | | | |
-|Suárez García, Antonio J.|0:00|4:00|2:00|15:36| 11:20|17:15 | | | | | | | | | | |
-|Vázquez Rodríguez, Fausto|0:00|6:07|12:04|11:40| 14:28|15:05 | | | | | | | | | | |
-|Vidal Tevar, Gabriel|0:00|4:00|8:21|9:09|9:13 | 8:20| | | | | | | | | | |
+Reloj Individual (Horas Trabajadas):
 
 
-
-<div class="leyenda">
-
-|**Leyenda**|
-| :-: |
-|**Muy por debajo de la media(≤ 40%)**|
-|**Por debajo de la media(-40% a -10%)**|
-|**En la media(-10% a 10%)**|
-|**Por encima de la media(10% a 40%)**|
-|**Muy por encima de la media(≥ 40%)**|
-
-</div>
+|**Estudiante**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Abulatifa, Mohanad|0:00|7:22|13:13|8:12|13:36|11:13|7:35|17:29|0:33|-|-|-|-|-|-|
+|Castellano Alonso, Álvaro|0:00|10:05|11:47|9:55|13:04|15:00|10:42|9:30|13:18|-|-|-|-|-|-|
+|De La Prada Prados, Francisco Javier|0:00|9:52|13:50|11:55|10:20|8:00|10:30|10:05|11:09|-|-|-|-|-|-|
+|Del Río Pérez, Carlos|0:00|6:07|8:45|8:44|13:33|11:33|9:56|11:13|7:32|-|-|-|-|-|-|
+|Diáñez Suárez, Daniel|0:00|8:10|15:17|8:23|11:32|14:22|10:18|5:08|12:10|-|-|-|-|-|-|
+|García Galocha, Rafael David|0:00|8:41|10:41|10:20|10:10|15:06|11:44|9:01|10:44|-|-|-|-|-|-|
+|García Hernández, Cristina|0:00|9:55|10:16|11:54|10:28|22:02|9:41|8:57|31:43|-|-|-|-|-|-|
+|Granados López, Manuel J.|0:00|10:30|10:00|12:55|12:10|9:40|10:10|6:35|14:18|-|-|-|-|-|-|
+|Jiménez Del Villar, Juan Antonio|0:00|7:45|4:42|13:07|12:06|12:23|8:38|6:08|11:57|-|-|-|-|-|-|
+|León Madroñal, Juan Carlos|0:00|8:18|12:32|9:52|10:32|11:36|6:19|10:38|11:52|-|-|-|-|-|-|
+|Márquez González, Diego|0:00|11:00|12:10|14:02|12:28|6:08|10:11|9:52|10:49|-|-|-|-|-|-|
+|Pérez Romero, Lucía|0:00|9:50|10:00|13:10|19:09|10:08|10:02|15:20|20:30|-|-|-|-|-|-|
+|Restoy Barrero, Joaquín|0:00|7:15|10:41|12:11|13:06|13:42|8:49|4:54|18:18|-|-|-|-|-|-|
+|Suárez García, Antonio J.|0:00|4:00|2:00|15:36|11:20|21:20|6:29|4:13|14:57|-|-|-|-|-|-|
+|Vázquez Rodríguez, Fausto|0:00|6:07|12:04|11:40|14:28|15:05|10:58|10:02|12:53|-|-|-|-|-|-|
+|Vidal Tevar, Gabriel|0:00|4:00|8:21|9:09|9:13|8:21|6:00|9:12|19:18|-|-|-|-|-|-|
 
 Reloj Colectivo:
 
 
-|**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Semana 15**|**Total**|
-| :-: | :-: | :-: | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
-|Media de horas realizadas|0:00|8:03|10: 23|11: 19|12: 20|11:19|||||||||||
-|Media de horas realizadas (+10%)|0:00|8:52|11: 26|12: 27|13:34|12:26|||||||||||
-|Media de horas realizadas (+40%)|0:00|11: 17|14: 33|15: 51|17:16|15:50|||||||||||
-|Media de horas realizadas (-10%)|0:00|7:15|9:20|10: 12|11:06|10:11|||||||||||
-|Media de horas realizadas (-40%)|0:00|4:50|6:14|6:48|7:24|6:47|||||||||||
-|Decremento de horas totales|2400:00|2271:24|2105:34|1924:56|1726:47|1525:58|||||||||||
-|Decremento de horas esperado|2400:00|2240:00|2080:00|1920:00|1760:00|1600:00|1440:00|1280:00|1120:00|960:00|800:00|640:00|480:00|320:00|160:00|0:00|
+|**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Media de horas realizadas|0:00|8:04|10:24|11:19|12:20|12:51|9:15|9:16|13:53|-|-|-|-|-|-|
+|Media de horas realizadas (+10%)|0:00|8:52|11:26|12:27|13:34|14:08|10:11|10:12|15:16|-|-|-|-|-|-|
+|Media de horas realizadas (+40%)|0:00|11:17|14:33|15:51|17:16|18:00|12:57|12:58|19:26|-|-|-|-|-|-|
+|Media de horas realizadas (-10%)|0:00|7:16|9:21|10:11|11:06|11:34|8:20|8:21|12:30|-|-|-|-|-|-|
+|Media de horas realizadas (-40%)|0:00|4:51|6:14|6:48|7:24|7:43|5:33|5:34|8:20|-|-|-|-|-|-|
+|Decremento de horas totales|2240:00|2111:05|1944:54|1763:57|1566:47|1361:13|1213:18|1065:07|843:11|-|-|-|-|-|-|
+|Decremento de horas esperado|2240:00|2080:00|1920:00|1760:00|1600:00|1440:00|1280:00|1120:00|960:00|800:00|640:00|480:00|320:00|160:00|0:00|
 
 
 ### Software - Git y GitHub
-Para medir el trabajo realizado en el repositorio software del proyecto se emplearán las métricas a nivel de grupo de: número de commits realizados, que tendrá un seguimiento efectivo gracias al historial de commits; y el número de incidencias (issues) completadas, las cuales se pueden observar en el tablero kanban. Ambas herramientas que se emplean están presentes por defecto en GitHub.
-
-Además, también se llevará a cabo una monitorización del número de líneas de código y el número de ficheros del propio proyecto. Aunque esto se puede conseguir con el uso de la propia plataforma de GitHub, se han empleado herramientas externas para facilitar el trabajo. En concreto la extensión VS Code Counter en el editor de código Visual Studio Code.
+Para medir el trabajo realizado en el repositorio software del proyecto se emplearán las métricas de: número de líneas de código y el número de ficheros del propio proyecto. Aunque esto se puede conseguir con el uso de la propia plataforma de GitHub, se han empleado herramientas externas para facilitar el trabajo. En concreto la extensión VS Code Counter en el editor de código Visual Studio Code, aplicado sobre la rama de Master.
 
 En la siguiente tabla se muestra el incremento que ha habido cada semana en las métricas mencionadas anteriormente:
 
 
-|**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Semana 15**|**Total**|
-| :-: | :-: | :-: | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
-|Número de Commits|0|1|0|10|47|126|||||||||||194|
-|Número de Incidencias Creadas|0|0|18|21|26|25|||||||||||90|
-|Líneas de Código|0|2|0|19071|16323|22791|||||||||||25541|
-|Número de Ficheros|0|1|0|31|23|29484|||||||||||29539|
+|**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Total**|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Líneas de Código|0|2|0|19071|-16323|1355|854|5|36320|-|-|-|-|-|-|41284|
+|Número de Ficheros|0|1|0|31|23|26|0|0|205|-|-|-|-|-|-|286|
+
+
+Además, para medir el uso de los beneficios del repositorio de código se emplearán las métricas a nivel de grupo de: número de commits realizados; el número de ramas creadas; el número de incidencias (issues) creadas, cerradas y comentadas; y el número de pull requests, creadas y comentadas. Todas las herramientas que se emplean están presentes por defecto en GitHub, como: el seguimiento efectivo gracias al historial de commits, las secciones de issues o de pull requests y la observación de tareas en el tablero kanban.
+
+En la siguiente tabla se muestra el incremento que ha habido cada semana en las métricas mencionadas anteriormente:
+
+
+|**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Total**|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Número de Commits|0|1|0|10|47|157|21|1|283|-|-|-|-|-|-|516|
+|Número de Ramas|*|*|*|*|*|*|44|13|9|-|-|-|-|-|-|66|
+|Número de Incidencias Creadas|0|0|18|21|26|26|15|24|8|-|-|-|-|-|-|138|
+|Número de Incidencias Cerradas|*|*|*|*|*|*|74|21|13|-|-|-|-|-|-|108|
+|Número de Incidencias con Comentarios|*|*|*|*|*|*|45|14|9|-|-|-|-|-|-|68|
+|Número Comentarios en Incidencias|*|*|*|*|*|*|80|47|22|-|-|-|-|-|-|149|
+|Media de Comentarios por Incidencia|*|*|*|*|*|*|1.78|3.36|2.44|-|-|-|-|-|-|2.19|
+|Número de Pull Requests|*|*|*|*|*|*|52|9|15|-|-|-|-|-|-|76|
+|Número de Pull Requests con Comentarios|*|*|*|*|*|*|33|10|14|-|-|-|-|-|-|57|
+|Número Comentarios en Pull Requests|*|*|*|*|*|*|87|28|68|-|-|-|-|-|-|183|
+|Media de Comentarios por Pull Request|*|*|*|*|*|*|2.64|2.8|4.86|-|-|-|-|-|-|3.21|
+
+- El color amarillo (*) significa que no se han recogio o no se van a recoger estadísticas en ese periódo.
 
 ### Documentos - Google Drive
 Con el fin de llevar un control de los diversos ficheros, sobre todo documentos,  necesarios en el proyecto se ha hecho uso de Google Drive. La métrica principal que puede servir para resaltar el crecimiento del trabajo realizado es el número de archivos totales. Este último se calcula mediante un script existente en la hoja de cálculo llamada Contador de Documentos de Google Drive. Simplemente en la pestaña de extensiones pulsar en App Script y en la ventana emergente darle a la opción de ejecutar.
@@ -252,9 +277,9 @@ Con el fin de llevar un control de los diversos ficheros, sobre todo documentos,
 En la siguiente tabla se muestra el incremento que ha habido cada semana en las métricas mencionadas anteriormente:
 
 
-|**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Semana 15**|**Total**|
-| :-: | :-: | :-: | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
-|Número de Archivos|0|32|29|45|71|18|||||||||||195|
+|**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Total**|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Número de Archivos|0|32|29|45|71|39|16|15|32|-|-|-|-|-|-|279|
 
 
 ### Comunicación - Discord
@@ -264,10 +289,10 @@ En la siguiente tabla se muestra el incremento que ha habido cada semana en las 
 
 
 
-|**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Semana 15**|**Total**|
-| :-: | :-: | :-: | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
-|Número de Reuniones|0|1|1|3|2|1|||||||||||8|
-|Tiempo de Reuniones|0:00|2:00|2:00|3:50|4:20|1:30|||||||||||13:40|
+|**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Total**|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Número de Reuniones|0|1|1|3|2|2|1|1|1|-|-|-|-|-|-|12|
+|Tiempo de Reuniones|0:00|2:00|2:00|3:50|4:20|5:00|1:10|2:00|1:50|-|-|-|-|-|-|21:10|
 
 
 Dado que no se prevé que cambie la estructura del servidor creado en Discord, las siguientes estadísticas se presuponen de carácter estático:
@@ -281,16 +306,32 @@ Dado que no se prevé que cambie la estructura del servidor creado en Discord, l
 |Canales de Voz|7|
 
 
-### Información - Wikidot
-Con la intención de examinar la evolución de la wiki del proyecto se establece la métrica del número de páginas creadas. Para ello solo se tienen en cuenta aquellas construidas por el equipo de trabajo, y no las que vienen por defecto. Además, mediante la web histats se hace un seguimiento del número de visitas por semana, monitorizando así la afluencia en la página de la wiki. Los datos son obtenidos de la contabilizando las semanas desde el martes en el que se imparte la clase hasta el lunes siguiente.
+### Información - Wikidot y Docusaurus
+Cuando se hacía uso de Wikidot, con la intención de examinar la evolución de la wiki del proyecto se establece la métrica del número de páginas creadas. Para ello solo se tienen en cuenta aquellas construidas por el equipo de trabajo, y no las que vienen por defecto. Además, mediante la web histats se hace un seguimiento del número de visitas por semana, monitorizando así la afluencia en la página de la wiki. Los datos son obtenidos de la contabilizando las semanas desde el martes en el que se imparte la clase hasta el lunes siguiente.
 
-Enlace a histats: https://www.histats.com/viewstats/?sid=4844287&act=2
+Enlace a histats: https://www.histats.com/viewstats/?sid=4844287&act=2 
 
-En la siguiente tabla se muestra el incremento que ha habido cada semana en las métricas mencionadas anteriormente:
+En la siguiente tabla se muestra el incremento que ha habido cada semana en las métricas  de Wikidot mencionadas anteriormente:
 
 
-|**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Semana 15**|**Total**|
-| :-: | :-: | :-: | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
-|Número de Páginas|0|0|10|7|2|1|||||||||||20|
-|Número de Visitas|0|0|105|360|214|29|||||||||||708|
+|**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Total**|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Número de Páginas|0|0|10|7|2|1|*|*|*|*|*|*|*|*|*|20|
+|Número de Visitas|0|0|105|360|214|61|*|*|*|*|*|*|*|*|*|740|
+
+- El color amarillo (*) significa que no se han recogio o no se van a recoger estadísticas en ese periódo.
+
+
+Cuando se pasa a Docusaurus, se establece únicamente la métrica del número de páginas creadas y el número de líneas. Para ello, aunque se puede conseguir con el uso de la propia plataforma, se han empleado herramientas externas para facilitar el trabajo. En concreto la extensión VS Code Counter en el editor de código Visual Studio Code, aplicado sobre la rama de main del repositorio de documentos. Solo se tienen en cuenta aquellas páginas construidas por el equipo de trabajo, y no las que vienen por defecto, por lo que solo se mira el número de ficheros Markdown de la subcarpeta docs. Los datos son obtenidos de la contabilizando las semanas desde el martes en el que se imparte la clase hasta el lunes siguiente.
+
+En la siguiente tabla se muestra el incremento que ha habido cada semana en las métricas  de Docusaururs mencionadas anteriormente:
+
+
+|**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Total**|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Número de Páginas|*|*|*|*|*|*|72|0|12|-|-|-|-|-|-|84|
+|Número de Líneas|*|*|*|*|*|*|4579|0|918|-|-|-|-|-|-|5497|
+
+- El color amarillo (*) significa que no se han recogio o no se van a recoger estadísticas en ese periódo.
+
 
