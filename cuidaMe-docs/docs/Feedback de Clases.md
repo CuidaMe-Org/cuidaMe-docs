@@ -13,6 +13,7 @@
 |10/03/2024|v1.3|
 |29/03/2024|v1.4|
 |01/04/2024|v1.5|
+|07/04/2024|v1.6|
 
 
 ## Feedback 06/02
@@ -792,3 +793,63 @@ Customer agreement con términos de servicio, evitar causas abusivas (análisis 
 - Gestion de usuarios pilotos, estado actual, feedback recibido, acciones realizadas con respecto al feedback, preparar plan gestion usuario pilotos sprint 3 , ca con ellos.
 -  planificación, screenshot de issues de planificación, objetivos sprint 3, API de validez de cuenta de correos, analizar como ha mejorado el uso de la IA, huella de carbono , lecciones aprendidas, alucinaciones de la oa
 - Trasparencia final con landing page (lo de siempre)
+
+
+## Feedback 02/04
+### **Registro 1**
+11 aparking:
+- Demasiado tiempo a la parte inicial, es una presentacion tecnica, para ver los problemas...
+- Inicio efectivo intentar relacionarlo
+- Para reduccion de la funcionalidad hay que explicar bien el por qué
+- Usar lupa pj en la presentacion
+- Reporte IA -> conclusiones de su uso
+- Planificación usuario pilotos y como se va a gestionar el feedback
+- Hacerse una autodefensa sobre las failure conditions
+- La gestión del feedback es importante
+
+9 nosotros:
+- Destacar los incrementos del sprint (en la DEMO)
+- Destacar de alguna manera quien está logeado (cliente o cuidador)
+- Usuarios pilotos -> mejorar diapositiva 33, no se ve desde lejos (quizas se pueda omitir la imagen del formulario, y poner otras cosas como recomendaciones que han dado)
+- Diagrama de kant no aporta? Buscar otra manera mas visual
+- Usos de IA -> incluir si ha mejorado la productividad, pros/contras...
+
+7 ong:
+- Grafica pesimista/optimista evitar colores similares
+- El feedback usuarios pilotos se ha aplicado a este sprint?
+- Que los diagramas se vean de lejos x/y
+
+Catering:
+- Mejorar interfaz
+- Destacar incrementos respecto sprints previos
+- Cuidado con los colores
+- Killer opener la frase potente al principio
+- De dinero: centrarse en apex y copex
+- Introduccion a la demo para saber que se va a mostrar
+- Icono quien está logado (si está enlazado con el opener, mejor)
+- Demasiado zoom en la demo tampoco, marea
+- Si se pone una diapositiva y se va a saltar, no se pone
+- Todos los problemas resueltos? Es raro
+
+10 ong:
+- Cuidado ser repetitivo con el killer opener
+- Storyboard usar diferentes pov según tipo de usuario
+- Costes mejor empezar por el optimista para que sea más fluido?
+- Demo hacer zoom cuando haga falta
+- En vez de foto formulario -> información relevante sobre para qué ha servido
+- Lecciones aprendidas en retrospectiva no en el planning
+- Sprint backlog mejor no usar tablas en presentación
+- No usar negro sobre rojo
+
+12 shar3d:
+- En la demo que persistan los iconos
+- El opener enlazarlo con el storyboard?
+- Penalizaciones con el agreement del grupo de mañana!
+
+Profesor:
+- Nueva version pdfs
+- Obligatoriedad usuarios pilotos
+- Dashboard bluejay para gestión interna -> destacar si se ha hecho algo para mejorar
+
+Prox dia:
+- killer opener, elevator speech, competidores, storyboard (que sea como un anuncio), customer agreement (destacando clausulas, hablar del pricing sla …), enlazar con TCO… [todo lo que llevamos haciendo]... hablar del equipo, commit agree y el estado… , demo señalando los incrementos, destacar y mejorar el UX, datos realistas, en la demo empezar a pensar en cumplimiento de regulaciones (garantizar seguridad utilizando https?), retrospectiva mitad sprint 3, matrices…, mejora del agendamiento, calidad software y progreso, plan de pruebas! (píldora?), problemas y riesgos (con sus soluciones, objetivos, mediciones y estado), changelog quizás más sentido en la demo, reloj de avance del proyecto… usuario pilotos TODO lo que conlleva su gestión, tmb el commit agree con ellos (con penalizaciones?)... planificación y objetivos para la demo del sprint 3 (con pago real, con verificación de correo…), planificación inicial del siguiente sprint (marketing) + correcciones codigo?... reportes uso IA con lo ya mencionado, traspa final
