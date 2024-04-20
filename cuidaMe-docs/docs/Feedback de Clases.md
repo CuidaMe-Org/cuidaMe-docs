@@ -853,3 +853,81 @@ Profesor:
 
 Prox dia:
 - killer opener, elevator speech, competidores, storyboard (que sea como un anuncio), customer agreement (destacando clausulas, hablar del pricing sla …), enlazar con TCO… [todo lo que llevamos haciendo]... hablar del equipo, commit agree y el estado… , demo señalando los incrementos, destacar y mejorar el UX, datos realistas, en la demo empezar a pensar en cumplimiento de regulaciones (garantizar seguridad utilizando https?), retrospectiva mitad sprint 3, matrices…, mejora del agendamiento, calidad software y progreso, plan de pruebas! (píldora?), problemas y riesgos (con sus soluciones, objetivos, mediciones y estado), changelog quizás más sentido en la demo, reloj de avance del proyecto… usuario pilotos TODO lo que conlleva su gestión, tmb el commit agree con ellos (con penalizaciones?)... planificación y objetivos para la demo del sprint 3 (con pago real, con verificación de correo…), planificación inicial del siguiente sprint (marketing) + correcciones codigo?... reportes uso IA con lo ya mencionado, traspa final
+
+
+## Feedback 09/04
+### **Registro 1**
+Previa:
+- Condiciones de fallo modificadas
+- Identificar bien los documentos para corregirlos más fácil, con su correcto orden por carpetas por sprints
+- Descripción en el entregable para que sepamos que debemos entregar
+- Pildoras revisarlas
+- BGCC organizarla mejor entre todos los grupos, faltan secciones
+- No poner credenciales publicas en docusaurus
+
+Grupo 9 nosotros:
+- Falta anuncio grabado basado en los storyBoard
+- Demo: dificil seguir el hilo, utilizar historia para contar el uso de la app como un hilo. Mejorar la interfaz
+- Plan de pruebas, como se van a gestionar las pruebas que se le van a hacer al software
+- Planificación ubicada en otro lado (debe ir al final?), no se ve el cronograma
+- Inicio efectivo más fluido, q parezca mas natural en los cambios de personas
+- Mucha información en muchas diapositivas y se pasan rápido, para persona ajena es dificil seguir. Las diapositivas son de apoyo visual. En algunas hay demasiado detalle y se pasan antes de poder analizarlas. 
+- Acercamiento sistematico a la resolucion de problemas: al identificar problema, se hace X cosa y plantear identificadores para saber si esa solución está funcionando -> problema, acciones, identificadores/objetivos, periodo/umbral para saber si ha funcionado
+- No confundir riesgo (no ha sucedido aún) con problema
+
+Grupo 11 aparking:
+- Demasiado tiempo en la primera parte de la presentación, reducir a decir algo de clausulas abusivas
+- No se ve quien utiliza la app en la demo
+- Fondo negro con letra pequeña no favorece
+- Retrospective faltan los problemas encontrados, lecciones aprendidas
+- Que no haya problemas es algo muy raro, hay que poner lo minimo que se encuentre. Al menos decir algo respecto a los riesgos detectados como van.
+- Antes de la demo de lo que se va a hablar, no el planning actual
+- Cuidado con la vocalización
+- El formato de la presentación no aprovecha la pantalla entera
+- Elevator speech dificil saber la funcionalidad. Decir porqué esta es buena
+- Demo mas tranquila con solo funcionalidades tochas mejor que demo con mucha funcionalidad no muy importante
+- Presentación centrarse en lo que es particular no algo que todos los proyectos tienen
+
+Grupo 10 cocemfe ngo:
+- Demo: resaltar el incremento, incluir datos realistas, hacer zoom, omitir registro, iconos de quien está logueado...
+- Explicar las diapositivas, no decir aquí se ve tal, aquí no se ve esto...
+- Usuarios pilotos: priorizar el feedback dado
+- Uniformidad en las graficas, TODAS el mismo estilo. Buscar uniformidad en general
+- Costes vs beneficios cuidado, es costes vs ingresos en este caso
+- Salario bruto trabajador + seguridad social? Capex debe tener en cuenta todo
+- Tiene que estar sincronizado lo que se dice con lo que se pone, y cambiar la diapositiva en el momento exacto
+
+Grupo catering:
+- Opex debería ser diferente según el número de usuario
+- Planificación de tests: como se van a evaluar, usar los terminos exactos de la teoría (llamar las cosas por su nombre)
+- Demo: hacerla como una historia (enlazarla con inicio efectivo)
+- Trackear mejor el feedback de los usuarios pilotos
+- LTX studio PARA CREAR ANUNCIO CON IA
+- La mejor forma de reportar los tests que están siendo utiles es saber cuantos bugs se han encontrado gracias a los tests por ejemplo, REPORTAR eso es importante
+- Faltan los objetivos de las soluciones propuestas
+
+Grupo shar3d:
+- Feedback anterior
+- Killer opener -> anuncio -> demo. Se podría enlazar todo
+- Agreement con los usuarios pilotos posibles penalizaciones y recompensas?
+
+Grupo harmony:
+- Botón Reportar error buena idea
+- Porcentaje de participación en los usuarios pilotos estaría bien incluirlo
+- Cuando se va a analizar y cuando se va a implementar el feedback recibido
+- Demo: que quede claro el CORE, icono New pj de las features nuevas
+
+Profesores:
+- Prox dia evaluacion, como siemore
+
+Prox día (lo que cambia):
+- Inicial: como siempre + anuncio en video
+- Customer agreement, clausulas abusivas, claudette...
+- Antes del TCO: tareas preliminares de marketing de lo q se va a hacer -> COMO VAMOS A GANAR TRACCION EN EL MERCADO y POSIBLES RESPONSABILIDADES DEL COMUNITY MANAGER DEL GRUPO
+- Resumen analisis del TCO + rol GPDR data protection (cuanto cuesta, si se va a subscontractar o no) + rol CM
+- Equipo: quien estan haciendo cada rol
+- Demo S3: descripción inicial de lo que se va a ver ANTES de la demo, enseñar incremento con New, con historia realista, datos realistas, quien está usando la app y su rol (si enlaza con el inicio mejor), si hay mejoras de UX mostrarlas, mostrar cumplimiento de GPDR (que haya un botón de darse de baja, quiero que se borren mis datos -> DERECHO AL OLVIDO, no tiene que se automatico ni nada, simplemente notificarlo)
+- Retrospectiva: datos actualizados
+- Gestion usuarios pilotos: lo mismo hasta hora
+- Planificación: siguiente fase centrada en marketing (tmb se puede hacer mejoras de lo anterior)
+- Reporte IA Y traspa final
