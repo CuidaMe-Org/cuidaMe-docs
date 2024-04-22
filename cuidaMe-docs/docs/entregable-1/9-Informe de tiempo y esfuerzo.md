@@ -1,4 +1,6 @@
-﻿**Autor(es):**
+﻿# Informe de tiempo y esfuerzo - Sprint 0
+
+**Autor(es):**
 - Jiménez Del Villar, Juan Antonio
 
 |**Fecha**|**Versión**|

@@ -1,109 +1,22 @@
-﻿
-Universidad de Sevilla 
+﻿# Product Backlog
 
-Escuela Técnica Superior de Ingeniería Informática 
+**Autor(es):**
+- García Hernández, Cristina
+- Pérez Romero, Lucía
+- Restoy Barrero, Joaquín
 
-**Product Backlog**
-
-Grado en Ingeniería Informática – Ingeniería del Software 
-
-Planificación y Gestión de Proyectos Informáticos- 
-
-Curso 2023 – 2024 
-
-|`  `**Fecha** |`  `**Versión** |
+|**Fecha** |**Versión** |
 | - | - |
 |22/04/2024|V4.0|
 
-
-
-|**Entregable:** Sprint 1(#S1)||
-| - | :- |
-|**Repositorio:** https://github.com/Galeon2098/CuidaME||
-|**Autores por orden alfabético** |` `**Correo** |
-|Cristina García Hernández |crigarher4@alum.us.es|
-|Joaquín Restoy Barrero|a.joaresbar@gmail.com|
-|Lucía Pérez Romero |luciaperezromero07@gmail.com|
-
-
-
-
-
-|**Grupo de Prácticas:** G9 - CuidaMe||
-| - | :- |
-|**Miembros del equipo por orden alfabético** |` `**Correo** |
-|Álvaro Castellano Alonso|acastealonso@gmail.com|
-|Antonio José Suárez García|suareantonio71@gmail.com|
-|Carlos del Río Pérez|carlosmix52@gmail.com|
-|Cristina García Hernández |crigarher4@alum.us.es|
-|Daniel Diañez Suárez|danidiasua02@gmail.com|
-|Diego Márquez González|diego16rey@gmail.com|
-|Fausto Vázquez Rodríguez|fausto4vazrod@gmail.com|
-|Francisco Javier de la Prada Prados|fraprapra1@alum.us.es|
-|Gabriel Vidar Tévar|gavidalt@gmail.com|
-|Joaquín Restoy Barrero|a.joaresbar@gmail.com|
-|Juan Antonio Jiménez del Villar|jajimenezdelvillar@gmail.com|
-|Juan Carlos León Madroñal|juancarloslm02@gmail.com|
-|Lucía Pérez Romero |luciaperezromero07@gmail.com|
-|Manuel Jesús Granados López|mjgranados@gmail.com|
-|Mohanad Abulatifa|Mohanad.abulatifa@gmail.com|
-|Rafael David García Galocha|rafgargal@alum.us.es|
-
-
-
-
-
-
-
-
-**Índice de contenido** ​ 
-
-
-[1. Introducción	4](#_1fob9te)
-
-[2. Resumen Ejecutivo	4](#_gjdgxs)
-
-[3. Contenido	4](#_3znysh7)
-
-[3.1. Tabla de organización	4](#_2et92p0)
-
-[4. Conclusión	7](#_1t3h5sf)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. ## <a name="_1fob9te"></a>**Introducción**
+## Introducción
 El Product Backlog para el desarrollo del proyecto se ha diseñado estratégicamente para maximizar la eficiencia y la entrega de valor al cliente. Cada elemento de la tabla representa una tarea, la cual se asignará al sprint que corresponda.
-1. ## <a name="_gjdgxs"></a>**Resumen Ejecutivo**
+
+## Resumen Ejecutivo
 Iniciamos un nuevo proyecto, centrado en maximizar el valor para el cliente y mejorar la calidad del producto. Afrontaremos desafíos técnicos, buscando fortalecer la colaboración y aprendizaje mediante una organización efectiva y equilibrada.
-1. ## <a name="_3znysh7"></a>**Contenido**
-   1. ## <a name="_2et92p0"></a>**Tabla de organización** 
+## Contenido
+
+### Tabla de organización
 
 |**Id tarea**|**Id   requisito**|**Descripción**|**Estimación**|**Dependencias**|**Responsables**|**Sprint**|**Estado**|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -169,7 +82,7 @@ Iniciamos un nuevo proyecto, centrado en maximizar el valor para el cliente y me
 |T-58||Commitment Agreement|5||Juan Carlos León|Sprint X||
 |T-59||Performance Evaluation Usuarios Piloto|5||Javier Francisco Prada|Sprint X||
 
-1. ## <a name="_1t3h5sf"></a>**Conclusión**
+## Conclusión
    Este listado de tareas se corresponde al total de los puntos a completar para completar el proyecto de acuerdo a lo especificado por el cliente. Consideramos que el reparto de tareas es equitativo. 
 
    El uso de estimación poker consideramos que ha sido de gran ayuda para poder mantener el equilibrio en las asignaciones y el sentimiento conjunto de conformidad con las asignaciones.

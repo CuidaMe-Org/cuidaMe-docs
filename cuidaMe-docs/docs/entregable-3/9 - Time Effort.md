@@ -1,11 +1,13 @@
-# Informe de tiempo y esfuerzo
+# Informe de tiempo y esfuerzo - Sprint 2
+
+**Autor(es):**
+- del Río Pérez, Carlos
 
 |**Fecha**|**Versión**|
 | :-: | :-: |
 |01/04/2024|v1.0|
 
-**Autor(es):**
-- del Río Pérez, Carlos
+
 
 # Introducción
 El presente informe tiene como objetivo proporcionar una visión detallada del tiempo y esfuerzo dedicado por cada miembro del equipo al proyecto CuidaME durante el Sprint 2. Este análisis se basa en los registros de tiempo obtenidos a través de la plataforma Clockify, donde cada miembro del equipo ha registrado el tiempo de sus actividades correspondientes a cada semana del entregable. El esfuerzo dedicado durante estas semanas será representado por las horas realizadas al hacer las actividades asignadas.
