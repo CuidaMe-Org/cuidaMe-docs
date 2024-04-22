@@ -3,8 +3,6 @@ Universidad de Sevilla
 
 Escuela Técnica Superior de Ingeniería Informática 
 
-![http://recursoshumanos.us.es/images/marca-dos-tintas_300.gif](Aspose.Words.4be88aca-5110-480c-9524-35045c91c37e.001.png)
-
 Sprint 3 
 
 Grado en Ingeniería Informática – Ingeniería del Software 
@@ -15,7 +13,7 @@ Curso 2023 – 2024
 
 |`  `**Fecha** |`  `**Versión** |
 | - | - |
-|121/02/2024|V1.0|
+|22/04/2024|V2.0|
 
 
 
