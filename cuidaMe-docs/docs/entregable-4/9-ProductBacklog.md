@@ -3,13 +3,7 @@ Universidad de Sevilla
 
 Escuela Técnica Superior de Ingeniería Informática 
 
-![http://recursoshumanos.us.es/images/marca-dos-tintas_300.gif](Aspose.Words.fa93dc2a-a12c-4a6a-b440-3b3823b46c20.001.png)
-
-
-
 **Product Backlog**
-
-
 
 Grado en Ingeniería Informática – Ingeniería del Software 
 
