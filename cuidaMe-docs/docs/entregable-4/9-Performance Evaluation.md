@@ -10,7 +10,7 @@
 |19/02/2024|v1.0|
 |04/03/2024|v2.0|
 |01/04/2024|v3.0|
-|2/04/2024|v4.0|
+|22/04/2024|v4.0|
 
 
 
@@ -36,7 +36,7 @@
 |**Suárez García, Antonio José**|**9**|**10**|**10**|**10**|||||
 |**Vazquez Rodriguez, Fausto**|**10**|**10**|**10**|**10**|||||
 |**Vidal Tevar, Gabriel**|**9**|**9**|**10**|**9**|||||
-|**Total**|**157**|**159**|**160**|**10**|**159**||||
+|**Total**|**157**|**159**|**160**|**159**||||
 
 
 
@@ -110,7 +110,7 @@
 
 ### Sprint 3 (#S3)
 
-|**Abulatifa, Mohanad J. D.** | |
+|**Abulatifa, Mohanad J. D.** |<p>- Actualizar landing page</p><p>- Videos explicativo de las preguntas frecuentes</p><p>- Fix de múltiples errores menores de la rama "Hotfix"</p> |
 | - | - |
 |**Castellano Alonso, Álvaro**|<p>- Reuniones semanales de líderes</p><p>- Toma de requisitos de los usuarios piloto</p><p>- Mejorar valoraciones de ofertas y usuarios (Task#207-fullstack)</p><p>- Revisar prs y fix en prs</p><p>- Fix mensajes temporales en oferta</p><p>- Elaboración de formularios para usuarios pilotos externos</p><p>- Rellenar datos feedback de usuarios pilotos en doc 9-pilots </p><p>- Gestión del subgrupo 2</p><p>- Usuario piloto del grupo 3 en la semana 1 del sprint</p>|
 |**De La Prada Prados, Francisco Javier**|<p>- Creación de un changelog para el repositorio</p><p>- Terminar servicio de videollamadas</p><p>- Usuario piloto del grupo 3 en ambas semanas</p><p>- Documento “PilotUsersPerformanceEvaluationFormS3”</p><p>- Documento “Información recibida por los usuarios pilotos”</p><p>- Creación de un anuncio </p>|
