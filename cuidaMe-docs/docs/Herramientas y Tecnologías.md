@@ -12,6 +12,7 @@
 |19/02/2024|v1.3|
 |04/03/2024|v.2.0|
 |05/04/2024|v.3.0|
+|22/04/2024|v.3.1|
 
 
 ## Introducción
@@ -185,56 +186,56 @@ Reloj Individual (Horas Restantes):
 
 |**Estudiante**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Abulatifa, Mohanad|140:00|132:38|119:26|111:15|97:39|86:26|78:51|61:22|60:49|-|-|-|-|-|-|
-|Castellano Alonso, Álvaro|140:00|129:55|118:08|108:14|95:10|80:11|69:29|59:59|46:42|-|-|-|-|-|-|
-|De La Prada Prados, Francisco Javier|140:00|130:08|116:18|104:23|94:03|86:03|75:33|65:28|54:19|-|-|-|-|-|-|
-|Del Río Pérez, Carlos|140:00|133:53|125:09|116:25|102:53|91:21|81:26|70:13|62:41|-|-|-|-|-|-|
-|Diáñez Suárez, Daniel|140:00|131:50|116:33|108:11|96:39|82:18|72:00|66:53|54:44|-|-|-|-|-|-|
-|García Galocha, Rafael David|140:00|131:19|120:38|110:19|100:09|85:04|73:20|64:19|53:36|-|-|-|-|-|-|
-|García Hernández, Cristina|140:00|130:05|119:49|107:55|97:27|75:25|65:45|56:49|25:06|-|-|-|-|-|-|
-|Granados López, Manuel J.|140:00|129:30|119:30|106:35|94:25|84:45|74:35|68:00|53:42|-|-|-|-|-|-|
-|Jiménez Del Villar, Juan Antonio|140:00|132:15|127:33|114:27|102:21|89:59|81:21|75:13|63:17|-|-|-|-|-|-|
-|León Madroñal, Juan Carlos|140:00|131:42|119:10|109:19|98:47|87:12|80:53|70:16|58:25|-|-|-|-|-|-|
-|Márquez González, Diego|140:00|129:00|116:51|102:49|90:22|84:15|74:04|64:13|53:25|-|-|-|-|-|-|
-|Pérez Romero, Lucía|140:00|130:10|120:10|107:00|87:51|77:43|67:41|52:21|31:51|-|-|-|-|-|-|
-|Restoy Barrero, Joaquín|140:00|132:45|122:04|109:53|96:47|83:06|74:18|69:24|51:06|-|-|-|-|-|-|
-|Suárez García, Antonio J.|140:00|136:00|134:00|118:24|107:05|85:45|79:17|75:04|60:07|-|-|-|-|-|-|
-|Vázquez Rodríguez, Fausto|140:00|133:53|121:49|110:09|95:42|80:37|69:39|59:38|46:45|-|-|-|-|-|-|
-|Vidal Tevar, Gabriel|140:00|136:00|127:39|118:31|109:18|100:58|94:58|85:46|66:29|-|-|-|-|-|-|
+|Abulatifa, Mohanad|140:00|132:38|119:26|111:15|97:39|86:26|78:51|61:22|60:49|55:31|41:20|-|-|-|-|
+|Castellano Alonso, Álvaro|140:00|129:55|118:08|108:14|95:10|80:11|69:29|59:59|46:42|33:02|24:22|-|-|-|-|
+|De La Prada Prados, Francisco Javier|140:00|130:08|116:18|104:23|94:03|86:03|75:33|65:28|54:19|44:19|35:14|-|-|-|-|
+|Del Río Pérez, Carlos|140:00|133:53|125:09|116:25|102:53|91:21|81:26|70:13|62:41|56:09|44:01|-|-|-|-|
+|Diáñez Suárez, Daniel|140:00|131:50|116:33|108:11|96:39|82:18|72:00|66:53|54:44|43:07|34:08|-|-|-|-|
+|García Galocha, Rafael David|140:00|131:19|120:38|110:19|100:09|85:04|73:20|64:19|53:36|42:50|32:22|-|-|-|-|
+|García Hernández, Cristina|140:00|130:05|119:49|107:55|97:27|75:25|65:45|56:49|25:06|19:06|-06:19|-|-|-|-|
+|Granados López, Manuel J.|140:00|129:30|119:30|106:35|94:25|84:45|74:35|68:00|53:42|43:42|33:57|-|-|-|-|
+|Jiménez Del Villar, Juan Antonio|140:00|132:15|127:33|114:27|102:21|89:59|81:21|75:13|63:17|53:02|22:01|-|-|-|-|
+|León Madroñal, Juan Carlos|140:00|131:42|119:10|109:19|98:47|87:12|80:53|70:16|58:25|48:19|38:23|-|-|-|-|
+|Márquez González, Diego|140:00|129:00|116:51|102:49|90:22|84:15|74:04|64:13|53:25|39:38|28:46|-|-|-|-|
+|Pérez Romero, Lucía|140:00|130:10|120:10|107:00|87:51|77:43|67:41|52:21|31:51|19:36|01:36|-|-|-|-|
+|Restoy Barrero, Joaquín|140:00|132:45|122:04|109:53|96:47|83:06|74:18|69:24|51:06|45:37|34:39|-|-|-|-|
+|Suárez García, Antonio J.|140:00|136:00|134:00|118:24|107:05|85:45|79:17|75:04|60:07|48:48|33:28|-|-|-|-|
+|Vázquez Rodríguez, Fausto|140:00|133:53|121:49|110:09|95:42|80:37|69:39|59:38|46:45|32:54|11:49|-|-|-|-|
+|Vidal Tevar, Gabriel|140:00|136:00|127:39|118:31|109:18|100:58|94:58|85:46|66:29|66:29|58:15|-|-|-|-|
 
 Reloj Individual (Horas Trabajadas):
 
 
 |**Estudiante**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Abulatifa, Mohanad|0:00|7:22|13:13|8:12|13:36|11:13|7:35|17:29|0:33|-|-|-|-|-|-|
-|Castellano Alonso, Álvaro|0:00|10:05|11:47|9:55|13:04|15:00|10:42|9:30|13:18|-|-|-|-|-|-|
-|De La Prada Prados, Francisco Javier|0:00|9:52|13:50|11:55|10:20|8:00|10:30|10:05|11:09|-|-|-|-|-|-|
-|Del Río Pérez, Carlos|0:00|6:07|8:45|8:44|13:33|11:33|9:56|11:13|7:32|-|-|-|-|-|-|
-|Diáñez Suárez, Daniel|0:00|8:10|15:17|8:23|11:32|14:22|10:18|5:08|12:10|-|-|-|-|-|-|
-|García Galocha, Rafael David|0:00|8:41|10:41|10:20|10:10|15:06|11:44|9:01|10:44|-|-|-|-|-|-|
-|García Hernández, Cristina|0:00|9:55|10:16|11:54|10:28|22:02|9:41|8:57|31:43|-|-|-|-|-|-|
-|Granados López, Manuel J.|0:00|10:30|10:00|12:55|12:10|9:40|10:10|6:35|14:18|-|-|-|-|-|-|
-|Jiménez Del Villar, Juan Antonio|0:00|7:45|4:42|13:07|12:06|12:23|8:38|6:08|11:57|-|-|-|-|-|-|
-|León Madroñal, Juan Carlos|0:00|8:18|12:32|9:52|10:32|11:36|6:19|10:38|11:52|-|-|-|-|-|-|
-|Márquez González, Diego|0:00|11:00|12:10|14:02|12:28|6:08|10:11|9:52|10:49|-|-|-|-|-|-|
-|Pérez Romero, Lucía|0:00|9:50|10:00|13:10|19:09|10:08|10:02|15:20|20:30|-|-|-|-|-|-|
-|Restoy Barrero, Joaquín|0:00|7:15|10:41|12:11|13:06|13:42|8:49|4:54|18:18|-|-|-|-|-|-|
-|Suárez García, Antonio J.|0:00|4:00|2:00|15:36|11:20|21:20|6:29|4:13|14:57|-|-|-|-|-|-|
-|Vázquez Rodríguez, Fausto|0:00|6:07|12:04|11:40|14:28|15:05|10:58|10:02|12:53|-|-|-|-|-|-|
-|Vidal Tevar, Gabriel|0:00|4:00|8:21|9:09|9:13|8:21|6:00|9:12|19:18|-|-|-|-|-|-|
+|Abulatifa, Mohanad|0:00|7:22|13:13|8:12|13:36|11:13|7:35|17:29|0:33|5:18|14:11|-|-|-|-|
+|Castellano Alonso, Álvaro|0:00|10:05|11:47|9:55|13:04|15:00|10:42|9:30|13:18|13:40|8:40|-|-|-|-|
+|De La Prada Prados, Francisco Javier|0:00|9:52|13:50|11:55|10:20|8:00|10:30|10:05|11:09|10:00|9:05|-|-|-|-|
+|Del Río Pérez, Carlos|0:00|6:07|8:45|8:44|13:33|11:33|9:56|11:13|7:32|6:33|12:08|-|-|-|-|
+|Diáñez Suárez, Daniel|0:00|8:10|15:17|8:23|11:32|14:22|10:18|5:08|12:10|11:38|8:59|-|-|-|-|
+|García Galocha, Rafael David|0:00|8:41|10:41|10:20|10:10|15:06|11:44|9:01|10:44|10:46|10:28|-|-|-|-|
+|García Hernández, Cristina|0:00|9:55|10:16|11:54|10:28|22:02|9:41|8:57|31:43|6:00|25:27|-|-|-|-|
+|Granados López, Manuel J.|0:00|10:30|10:00|12:55|12:10|9:40|10:10|6:35|14:18|10:00|9:45|-|-|-|-|
+|Jiménez Del Villar, Juan Antonio|0:00|7:45|4:42|13:07|12:06|12:23|8:38|6:08|11:57|10:15|31:01|-|-|-|-|
+|León Madroñal, Juan Carlos|0:00|8:18|12:32|9:52|10:32|11:36|6:19|10:38|11:52|10:07|9:56|-|-|-|-|
+|Márquez González, Diego|0:00|11:00|12:10|14:02|12:28|6:08|10:11|9:52|10:49|13:47|10:52|-|-|-|-|
+|Pérez Romero, Lucía|0:00|9:50|10:00|13:10|19:09|10:08|10:02|15:20|20:30|12:15|18:00|-|-|-|-|
+|Restoy Barrero, Joaquín|0:00|7:15|10:41|12:11|13:06|13:42|8:49|4:54|18:18|5:30|10:58|-|-|-|-|
+|Suárez García, Antonio J.|0:00|4:00|2:00|15:36|11:20|21:20|6:29|4:13|14:57|11:19|15:21|-|-|-|-|
+|Vázquez Rodríguez, Fausto|0:00|6:07|12:04|11:40|14:28|15:05|10:58|10:02|12:53|13:52|21:06|-|-|-|-|
+|Vidal Tevar, Gabriel|0:00|4:00|8:21|9:09|9:13|8:21|6:00|9:12|19:18|0:00|8:14|-|-|-|-|
 
 Reloj Colectivo:
 
 
 |**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Media de horas realizadas|0:00|8:04|10:24|11:19|12:20|12:51|9:15|9:16|13:53|-|-|-|-|-|-|
-|Media de horas realizadas (+10%)|0:00|8:52|11:26|12:27|13:34|14:08|10:11|10:12|15:16|-|-|-|-|-|-|
-|Media de horas realizadas (+40%)|0:00|11:17|14:33|15:51|17:16|18:00|12:57|12:58|19:26|-|-|-|-|-|-|
-|Media de horas realizadas (-10%)|0:00|7:16|9:21|10:11|11:06|11:34|8:20|8:21|12:30|-|-|-|-|-|-|
-|Media de horas realizadas (-40%)|0:00|4:51|6:14|6:48|7:24|7:43|5:33|5:34|8:20|-|-|-|-|-|-|
-|Decremento de horas totales|2240:00|2111:05|1944:54|1763:57|1566:47|1361:13|1213:18|1065:07|843:11|-|-|-|-|-|-|
+|Media de horas realizadas|0:00|8:04|10:24|11:19|12:20|12:51|9:15|9:16|13:53|9:26|14:01|-|-|-|-|
+|Media de horas realizadas (+10%)|0:00|8:52|11:26|12:27|13:34|14:08|10:11|10:12|15:16|10:23|15:25|-|-|-|-|
+|Media de horas realizadas (+40%)|0:00|11:17|14:33|15:51|17:16|18:00|12:57|12:58|19:26|13:13|19:37|-|-|-|-|
+|Media de horas realizadas (-10%)|0:00|7:16|9:21|10:11|11:06|11:34|8:20|8:21|12:30|8:30|12:37|-|-|-|-|
+|Media de horas realizadas (-40%)|0:00|4:51|6:14|6:48|7:24|7:43|5:33|5:34|8:20|5:40|8:25|-|-|-|-|
+|Decremento de horas totales|2240:00|2111:05|1944:54|1763:57|1566:47|1361:13|1213:18|1065:07|843:11|692:16|468:09|-|-|-|-|
 |Decremento de horas esperado|2240:00|2080:00|1920:00|1760:00|1600:00|1440:00|1280:00|1120:00|960:00|800:00|640:00|480:00|320:00|160:00|0:00|
 
 
@@ -246,8 +247,8 @@ En la siguiente tabla se muestra el incremento que ha habido cada semana en las 
 
 |**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Total**|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Líneas de Código|0|2|0|19071|-16323|1355|854|5|36320|-|-|-|-|-|-|41284|
-|Número de Ficheros|0|1|0|31|23|26|0|0|205|-|-|-|-|-|-|286|
+|Líneas de Código|0|2|0|19071|-16323|1355|854|5|36320|0|3075|-|-|-|-|44359|
+|Número de Ficheros|0|1|0|31|23|26|0|0|205|0|25|-|-|-|-|311|
 
 
 Además, para medir el uso de los beneficios del repositorio de código se emplearán las métricas a nivel de grupo de: número de commits realizados; el número de ramas creadas; el número de incidencias (issues) creadas, cerradas y comentadas; y el número de pull requests, creadas y comentadas. Todas las herramientas que se emplean están presentes por defecto en GitHub, como: el seguimiento efectivo gracias al historial de commits, las secciones de issues o de pull requests y la observación de tareas en el tablero kanban.
@@ -257,17 +258,17 @@ En la siguiente tabla se muestra el incremento que ha habido cada semana en las 
 
 |**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Total**|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Número de Commits|0|1|0|10|47|157|21|1|283|-|-|-|-|-|-|516|
-|Número de Ramas|*|*|*|*|*|*|44|13|9|-|-|-|-|-|-|66|
-|Número de Incidencias Creadas|0|0|18|21|26|26|15|24|8|-|-|-|-|-|-|138|
-|Número de Incidencias Cerradas|*|*|*|*|*|*|74|21|13|-|-|-|-|-|-|108|
-|Número de Incidencias con Comentarios|*|*|*|*|*|*|45|14|9|-|-|-|-|-|-|68|
-|Número Comentarios en Incidencias|*|*|*|*|*|*|80|47|22|-|-|-|-|-|-|149|
-|Media de Comentarios por Incidencia|*|*|*|*|*|*|1.78|3.36|2.44|-|-|-|-|-|-|2.19|
-|Número de Pull Requests|*|*|*|*|*|*|52|9|15|-|-|-|-|-|-|76|
-|Número de Pull Requests con Comentarios|*|*|*|*|*|*|33|10|14|-|-|-|-|-|-|57|
-|Número Comentarios en Pull Requests|*|*|*|*|*|*|87|28|68|-|-|-|-|-|-|183|
-|Media de Comentarios por Pull Request|*|*|*|*|*|*|2.64|2.8|4.86|-|-|-|-|-|-|3.21|
+|Número de Commits|0|1|0|10|47|157|21|1|283|3|221|-|-|-|-|740|
+|Número de Ramas|*|*|*|*|*|*|44|13|9|12|8|-|-|-|-|86|
+|Número de Incidencias Creadas|0|0|18|21|26|26|15|24|8|36|4|-|-|-|-|178|
+|Número de Incidencias Cerradas|*|*|*|*|*|*|74|21|13|-1|9|-|-|-|-|116|
+|Número de Incidencias con Comentarios|*|*|*|*|*|*|45|14|9|17|3|-|-|-|-|88|
+|Número Comentarios en Incidencias|*|*|*|*|*|*|80|47|22|35|4|-|-|-|-|188|
+|Media de Comentarios por Incidencia|*|*|*|*|*|*|1.78|3.36|2.44|2.05|1.33|-|-|-|-|2.14|
+|Número de Pull Requests|*|*|*|*|*|*|52|9|15|7|13|-|-|-|-|96|
+|Número de Pull Requests con Comentarios|*|*|*|*|*|*|33|10|14|7|12|-|-|-|-|76|
+|Número Comentarios en Pull Requests|*|*|*|*|*|*|87|28|68|16|65|-|-|-|-|264|
+|Media de Comentarios por Pull Request|*|*|*|*|*|*|2.64|2.8|4.86|2.29|5.42|-|-|-|-|3.47|
 
 - El color amarillo (*) significa que no se han recogio o no se van a recoger estadísticas en ese periódo.
 
@@ -279,7 +280,7 @@ En la siguiente tabla se muestra el incremento que ha habido cada semana en las 
 
 |**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Total**|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Número de Archivos|0|32|29|45|71|39|16|15|32|-|-|-|-|-|-|279|
+|Número de Archivos|0|32|29|45|71|39|16|15|32|10|30|-|-|-|-|319|
 
 
 ### Comunicación - Discord
@@ -291,8 +292,8 @@ En la siguiente tabla se muestra el incremento que ha habido cada semana en las 
 
 |**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Total**|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Número de Reuniones|0|1|1|3|2|2|1|1|1|-|-|-|-|-|-|12|
-|Tiempo de Reuniones|0:00|2:00|2:00|3:50|4:20|5:00|1:10|2:00|1:50|-|-|-|-|-|-|21:10|
+|Número de Reuniones|0|1|1|3|2|2|1|1|1|1|0|-|-|-|-|13|
+|Tiempo de Reuniones|0:00|2:00|2:00|3:50|4:20|5:00|1:10|2:00|1:50|1:30|0|-|-|-|-|22:40|
 
 
 Dado que no se prevé que cambie la estructura del servidor creado en Discord, las siguientes estadísticas se presuponen de carácter estático:
@@ -329,8 +330,8 @@ En la siguiente tabla se muestra el incremento que ha habido cada semana en las 
 
 |**Métrica**|**Semana 0**|**Semana 1**|**Semana 2**|**Semana 3**|**Semana 4**|**Semana 5**|**Semana 6**|**Semana 7**|**Semana 8**|**Semana 9**|**Semana 10**|**Semana 11**|**Semana 12**|**Semana 13**|**Semana 14**|**Total**|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Número de Páginas|*|*|*|*|*|*|72|0|12|-|-|-|-|-|-|84|
-|Número de Líneas|*|*|*|*|*|*|4579|0|918|-|-|-|-|-|-|5497|
+|Número de Páginas|*|*|*|*|*|*|72|0|12|0|4|-|-|-|-|88|
+|Número de Líneas|*|*|*|*|*|*|4579|0|918|47|539|-|-|-|-|6083|
 
 - El color amarillo (*) significa que no se han recogio o no se van a recoger estadísticas en ese periódo.
 
