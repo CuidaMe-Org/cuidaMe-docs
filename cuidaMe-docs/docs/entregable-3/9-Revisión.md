@@ -1,4 +1,4 @@
-﻿# Guía de revisión
+﻿# Reviewer Guide
 
 **Autor(es):**
 - Diáñez Suárez, Daniel
