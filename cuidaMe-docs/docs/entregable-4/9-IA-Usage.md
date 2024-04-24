@@ -198,25 +198,41 @@ La conversación completa puede verse desde aquí: http://cuidame.wikidot.com/ge
 
 ### Semana 10
 
-Durante esta semana no se han realizado consultas.
+- **Elaboración de informes**
+  
+  Se le pide elaborar una plantilla/guía para la elaboración del informe de marketing en particular.
+
+  La conversación completa puede verse aquí:
+
+  https://chat.openai.com/share/d6a72406-ae65-405a-9861-fbc9bcd1c64e
+
 
 ### Semana 11
 
-- **Creación del anucio**
+- **Creación del anuncio**
 
   Se utiliza la IA de creación de videos “raw shorts” para la creación de un anuncio de cara a la presentación.
 
   No hay registros de chat.
 
+- **Corrección de fallos de sonarcloud**
+
+  Se le pide ayuda sobre los distintos tipos de errores y fallos que teníamos en sonarcloud.
+
+  La conversación completa puede verse aquí:
+
+  https://chat.openai.com/share/758f6ec3-2d11-49a7-850e-127daecd21f2
+
+
 ## Huella de carbono
 
 Según ChatGPT, este consume una media de 0,2g de CO2 por pregunta. Por lo tanto viendo cuantas preguntas hemos hecho podemos tener una estimación de nuestra huella de carbono en el uso de la I.A.
 
-Hemos realizado aproximadamente 110 preguntas, por lo tanto:
+Hemos realizado aproximadamente 131 preguntas, por lo tanto:
+131*0,2 = 26,2g
 
-110\*0,2 = 22g
+No existe información fiable acerca de la huella de carbono de “raw shorts”, esto se debe a que puede variar debido a varios factores como la carga de trabajo de la propia IA, la densidad de la pregunta, si es bajo una licencia de pago o gratuita (destinando más recursos la comercializadora a las consultas de los clientes de pago), etc...
 
-No existe información fiable acerca de la huella de carbono de “raw shorts”, esto se debe a que puede variar debido a la gran cantidad de factores de los que depende.
 
 
 
