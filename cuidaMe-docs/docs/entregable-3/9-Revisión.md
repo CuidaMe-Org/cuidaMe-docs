@@ -21,14 +21,14 @@ Aquí se listan credenciales (usuarios y contraseñas) de al menos dos usuarios,
 |**Clientes**||
 | :- | :- |
 |**Usuario**|**Contraseña**|
-|cliente1|123456|
-|cliente2|123456|
+|clienteUno|123456|
+|clienteDos|123456|
 
 |**Cuidadores**||
 | :- | :- |
 |**Usuario**|**Contraseña**|
-|cuidador1|123456|
-|cuidador2|123456|
+|cuidadorUno|123456|
+|cuidadorDos|123456|
 
 |**Administrador**||
 | :- | :- |
