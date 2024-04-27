@@ -931,3 +931,62 @@ Prox día (lo que cambia):
 - Gestion usuarios pilotos: lo mismo hasta hora
 - Planificación: siguiente fase centrada en marketing (tmb se puede hacer mejoras de lo anterior)
 - Reporte IA Y traspa final
+
+
+## Feedback 23/04
+### **Registro 1**
+Grupo 10 ong:
+- Todo el texto es importante?? Este debe estar sincronizado con lo que se dice
+- Estudio de costes debe incluir los costes sociales (si se tiene en cuenta al personal). Ya que se debería tener en cuenta todos los costes del personal
+- Anuncio: debe enseñarse cosas objetivas y técnicas (para no desviarse)
+- Origen de la lección aprendida? Si no ha habido riesgos o problemas
+- Del feedback recibido, indicar que cosas se van a implementar de esas
+- Tareas de marketing preliminares con su rol al principio, pero después también hay que indicar la planificación siguiente
+- Hacer una historia, debe haber una detrás de la demo. Si se enlaza con más cosas aún mejor
+
+Grupo 7 ong:
+- En el inicio transmitir el valor de la aplicación
+- Anuncio más real para conseguir conexión emocional
+- Coste de personalización al añadir nuevos módulos?
+- Planificación: ver más detalles fechas de publicación de anuncios y post, cuando se va a implementar el feedback de los usuarios pilotos
+
+Grupo 9 NOSOTROS:
+- Buen flujo dentro de la presentación y la energía a la hora de presentar
+- Demasiado énfasis en el dinero si es una app de cuidados. Debería ser más emocional?
+- Diapositiva 12 son ingresos lo que se muestra, no beneficios
+- Cómo evolucionan los costes no queda claro. Quizás especificar más los tiempos de la diapositiva 10
+- De donde viene la rentabilidad? Cada cosa que se ponga que tipo de analisis permite? hay que pensar eso
+- Diapositiva 22 es un problema, no un riesgo. Falta también un umbral/objetivo en un periodo de tiempo exacto. No vale como medida tener menos fallos porque deben ser 0
+
+Grupo 12 shar3d:
+- El audio de la demo muy saturado
+- Ganar tracción en el mercado -> hará falta inversores
+- Intentar hacer pruebas de interfaz genéricas, por si cambia la interfaz
+- En opex meter personal de moderación
+
+Grupo 11 aparking:
+- Gráfica de costes una vez se acercan a casi 0 quizás deberían ir subiendo un poco si hay casa vez mas usuarios?
+- Kill opener debe tener más apoyo visual 
+- Demo falta indicar lo que se va a enseñar antes 
+- Riesgos si ocurre es un problema
+- Como se sabe si la solución para el problema ha sido buena, como se va a medir, en que intervalo temporal
+
+Grupo 8:
+- Cosas anteriores
+- Demo: agilizara, más energía 
+- Contratacion de personal solo en el último plan
+- Preguntar a los usuarios pilotos cuánto pagarían por los planes o si pagarían por ellos
+- Falta decir cómo se va a hacer el testing en las siguientes semanas, no se ha tenido en cuenta en la presentación 
+
+Profesores:
+- 2 presentaciones 10min + 5min
+- 10min: de q va el proyecto? (demo pj), q hace?, hay competencia?, quién hay detrás? (equipo), puede ser rentable? (planes de precios, resumen costes, oportunidades de INVERSION + anuncio para inversiones), donde encontrar más información? (pj traspa final)
+- Las preguntas son las cosas q hemos estado contando
+- 5min; detalles sobre el marketing 
+- Modelo de segmentación de mercado, caracterizar la audiencia según perfiles
+- Optimización en motores de búsqueda, palabras clave?
+- Campaña de lanzamiento, acciones antes de la presentación final?
+- Atracciones del cliente
+- Traccion y crecimiento de clientes con aliados
+- CM todas las acciones, planning de los post pj
+- Si no ha dado tiempo algo de poner en los 10min, aquí tambié,
