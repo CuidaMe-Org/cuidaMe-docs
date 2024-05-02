@@ -5,10 +5,14 @@
 - León Madroñal, Juan Carlos
 - García Galocha, Rafael David
 - Castellano Alonso, Álvaro
+- Granados López, Manuel Jesús
 
 |**Fecha**|**Versión**|
 | :-: | :-: |
 |12/02/2024|v1.0|
+|04/03/2024|v2.0|
+|01/04/2024|v3.0|
+|22/04/2024|v4.0|
 
 
 ## Introducción
@@ -21,14 +25,12 @@ Aquí se listan credenciales (usuarios y contraseñas) de al menos dos usuarios,
 |**Clientes**||
 | :- | :- |
 |**Usuario**|**Contraseña**|
-|clienteUno|123456|
-|clienteDos|123456|
+|cliente1|qwerty|
 
 |**Cuidadores**||
 | :- | :- |
 |**Usuario**|**Contraseña**|
-|cuidadorUno|123456|
-|cuidadorDos|123456|
+|cuidador1|qwerty|
 
 |**Administrador**||
 | :- | :- |
