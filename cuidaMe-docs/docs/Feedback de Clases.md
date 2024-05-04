@@ -990,3 +990,68 @@ Profesores:
 - Traccion y crecimiento de clientes con aliados
 - CM todas las acciones, planning de los post pj
 - Si no ha dado tiempo algo de poner en los 10min, aquí tambié,
+
+
+## Feedback 30/04
+### **Registro 1**
+Grupo harmony:
+- PPL es como una presentación de entrar en mercado, para captar inversores por ejemplo. Por lo que toda la presentación debe tener ese enfoque
+- Demo: hilo argumental necesario para aprobar IMPORTANTE
+- Inicio efectivo que no pueda servir para todas las apps, algo especifico de nuestro escenario.
+- Una vez se tenga claro el segmento, hay que enfocarse en él en todos los ámbitos, hasta el vocabulario
+- Evitar distracciones a los inversores como "chistes"
+- Quitar transparencias genéricas, analizarlas si lo puede decir el resto del mundo o es especifica nuestra
+- Anuncio: falta especificar más la funcionalidad, mensaje demasiado alto nivel
+- Falta gráfica de costes, pesimistas realistas...
+- 2 anuncios: uno para inversores y otro normal?
+- Esto es rentable para la ong? NO es la pregunta -> esto es rentable para harmony? -> empresa rentable
+- Falta plan de marketing profundo: en que redes, cuando, que tipo de anuncios, impacto esperado...
+
+Grupo 9 NOSOTROS:
+- Intentar no usar especidifcas de ispp, que se entienda a personas nuevas
+- Demo: demasiadas funcionalidades que quizas rompen la historia?
+- Demo: demasiada rápida, mejor mostrar menos cosas con una historia consistente que vaya a lo nuclear
+- Datos realistas en todo lo visible!! no poner asldfnkjh
+- Prize no, cost CORREGIR EN TODOS LADOS	
+- Demasiada información y no está resaltada, difícil seguir por donde se está yendo (sobre todo costes). Se va a tener 10min, menos nivel de detalle y que se entienda
+- Videos corto y para cada rol. En uno que aporta a los usuarios, y en otro por qué esto es un buen negocio (decir cosas esperadas...)
+- Calendario buen nivel de detalle
+- Al inicio tiene que quedar claro de que va la app -> utilizar inicio efectivo para ello
+- Demasiado rápido la parte de equipo
+- Demasiada info diapositiva 12, lo que se vaya a decir
+- Ponerle voz al anuncio, o ensayarlo mucho para sincronizar
+- Atentos a las faltas de ortografía
+- Costes de marketing faltan
+
+Grupo 11 aparking:
+- Demo: quitar formularios
+- Mejorar narrativa en los competidores, responder preguntas para venderse mejor
+- No poner diapositivas genericas, parece que se quiere vender humo
+- En los videos quitar tecnicismos que no vayan a entender inversores por ejemplo
+- Video para inversores: convencer con datos, números, cálculos... no con funcionalidad, que ya se sabe
+- Elevator speech natural a tiro hecho, y no poner diapositiva con ese título
+- Marketing segmentación: tiene que ser exacto el público
+
+Grupo cocemfe:
+- Videos: en el de inversores queda más claro lo que hace la aplicación que en el de usuarios? no debería
+- Quizás grafica costes en video inversores
+- Equipo mostrar fotos
+
+Grupo 8 banket buddy:
+- Quizás adelantar anuncio para saber el problema y solución de primeras
+- Demo: historia entre roles, NO primero uno y dsp otro
+- Diapositivas teóricas no, mejor poner ejemplos
+
+Grupo shar3d:
+- Killer opener con apoyo visual mejor
+- En la planificación especificar que posts concretos
+- Poner muchos ejemplos de lo realizado
+
+Profesores:
+- Slide para publicitarse (jpg/qr): próxima noticia
+- Prox dia evaluacion como siempre
+- Nada nuevo, lo mismo que para hoy
+- Persona profile
+- Mejorar video de inversores
+- Campaña de marketing en la de los 10min
+- Gráfica de costes en el video de inversores?? solo una parte de la gráfica con zoom?? Costes quizás pegue más en la segunda parte
