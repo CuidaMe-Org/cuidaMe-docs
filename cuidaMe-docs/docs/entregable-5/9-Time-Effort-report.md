@@ -2,10 +2,12 @@
 
 **Autor(es):**
 - Vidal Tévar, Gabriel
+- Granados López, Manuel Jesús
 
 |**Fecha**|**Versión**|
 | :-: | :-: |
 |22/04/2024|v1.0|
+|06/05/2024|v2.0|
 
 
 ## Introducción
@@ -18,100 +20,100 @@ A continuación, se detallará el tiempo dedicado por cada integrante del equipo
 
 ### Integrante del Grupo: Álvaro Castellano Alonso
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 115:37h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 129:35h
 
-Horas Restantes para Completar el Proyecto: 34:23h
+Horas Restantes para Completar el Proyecto: 20:25h
 
 ### Integrante del Grupo: Antonio José Suárez García
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 104:45h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 120:34h
 
-Horas Restantes para Completar el Proyecto: 44:15h
+Horas Restantes para Completar el Proyecto: 29:26h
 
 ### Integrante del Grupo: Carlos del Río Pérez
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 96:57h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 113:51h
 
-Horas Restantes para Completar el Proyecto: 54:03h
+Horas Restantes para Completar el Proyecto: 36:09h
 
 ### Integrante del Grupo Cristina García Hernández
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 144:49h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 153:19h
 
-Horas Restantes para Completar el Proyecto: 5:11h
+Horas Restantes para Completar el Proyecto: -3:19h
 
 ### Integrante del Grupo: Daniel Diañez Suárez
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 108:56h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 129:04h
 
-Horas Restantes para Completar el Proyecto: 41:04h
+Horas Restantes para Completar el Proyecto: 20:56h
 
 ### Integrante del Grupo: Diego Márquez González
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 111:27h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 133:44h
 
-Horas Restantes para Completar el Proyecto: 38:33h
+Horas Restantes para Completar el Proyecto: 22:16h
 
 ### Integrante del Grupo: Fausto Vázquez Rodríguez
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 127:10h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 154:57h
 
-Horas Restantes para Completar el Proyecto: 21:50h
+Horas Restantes para Completar el Proyecto: -4:57h
 
 ### Integrante del Grupo: Francisco Javier de la Prada Prados
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 103:31h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 125:46h
 
-Horas Restantes para Completar el Proyecto:  46:29h
+Horas Restantes para Completar el Proyecto:  24:14h
 
 
 ### Integrante del Grupo: Gabriel Vidar Tévar
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 93:16h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 106:20h
 
-Horas Restantes para Completar el Proyecto: 56:44h
+Horas Restantes para Completar el Proyecto: 43:40h
 
 ### Integrante del Grupo: Joaquín Restoy Barrero
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 105:20h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 130:08h
 
-Horas Restantes para Completar el Proyecto: 44:40h
+Horas Restantes para Completar el Proyecto: 19:52h
 
 ### Integrante del Grupo: Juan Antonio Jiménez del Villar
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 117:58h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 134:48h
 
-Horas Restantes para Completar el Proyecto: 33:02h
+Horas Restantes para Completar el Proyecto: 15:12h
 
 ### Integrante del Grupo: Juan Carlos León Madroñal
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 101:51h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 119:54h
 
-Horas Restantes para Completar el Proyecto: 48:09h
+Horas Restantes para Completar el Proyecto: 30:06h
 
 ### Integrante del Grupo: Lucía Pérez Romero
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 140:54h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 153:49h
 
-Horas Restantes para Completar el Proyecto: 10:06h
+Horas Restantes para Completar el Proyecto: -3:49h
 
 ### Integrante del Grupo: Manuel Jesús Granados López
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 105:03h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 126:00h
 
-Horas Restantes para Completar el Proyecto: 43:57h
+Horas Restantes para Completar el Proyecto: 24:00h
 
 ### Integrante del Grupo: Mohanad Abulatifa
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 100:05h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 124:43h
 
-Horas Restantes para Completar el Proyecto: 49:55h
+Horas Restantes para Completar el Proyecto: 25:17h
 
 ### Integrante del Grupo: Rafael David García Galocha
 
-Total de Horas Registradas en el Proyecto hasta la Fecha: 107:30h
+Total de Horas Registradas en el Proyecto hasta la Fecha: 124:00h
 
-Horas Restantes para Completar el Proyecto: 107:30h
+Horas Restantes para Completar el Proyecto: 26:00h
 
 
 
