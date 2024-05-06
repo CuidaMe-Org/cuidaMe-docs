@@ -1,4 +1,4 @@
-﻿# Informe de tiempo y esfuerzo - Sprint 3
+﻿# Informe de tiempo y esfuerzo - Preparing Project Launch
 
 **Autor(es):**
 - Vidal Tévar, Gabriel
