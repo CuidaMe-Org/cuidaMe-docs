@@ -116,15 +116,3 @@ Total de Horas Registradas en el Proyecto hasta la Fecha: 124:00h
 Horas Restantes para Completar el Proyecto: 26:00h
 
 
-
-
-
-
-
-
-
-
-
-
-
-Página 			CuidaME / Grupo 2.9

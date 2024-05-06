@@ -225,6 +225,7 @@ La conversación completa puede verse desde aquí: http://cuidame.wikidot.com/ge
 
   https://chat.openai.com/share/758f6ec3-2d11-49a7-850e-127daecd21f2
 
+## Preparing Project Launch (#PPL)
 
 ### Semana 12
 

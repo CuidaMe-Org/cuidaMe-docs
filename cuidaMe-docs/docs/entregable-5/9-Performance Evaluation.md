@@ -11,6 +11,7 @@
 |04/03/2024|v2.0|
 |01/04/2024|v3.0|
 |22/04/2024|v4.0|
+|06/05/2024|v5.0|
 
 
 
@@ -20,23 +21,23 @@
 
 |**Student**|**#DP1**|**#S1**|**#S2**|**#S3**|**#PPL**|**#WPL**|**Total**|**Weight**|
 | :- | :-: | :- | :- | :- | :- | :- | :- | :- |
-|**Abulatifa, Mohanad J. D.** |**10**|**10**|**10**|**10**|||||
-|**Castellano Alonso, Álvaro**|**10**|**10**|**10**|**10**|||||
-|**De La Prada Prados, Francisco Javier**|**10**|**10**|**10**|**10**|||||
-|**Del Rio Perez, Carlos**|**9**|**10**|**10**|**10**|||||
-|**Diáñez Suárez, Daniel**|**10**|**10**|**10**|**10**|||||
-|**García Galocha, Rafael David**|**10**|**10**|**10**|**10**|||||
-|**Garcia Hernandez, Cristina**|**10**|**10**|**10**|**10**|||||
-|**Granados Lopez, Manuel Jesús**|**10**|**10**|**10**|**10**|||||
-|**Jiménez Del Villar, Juan Antonio**|**10**|**10**|**10**|**10**|||||
-|**Marquez Gonzalez, Diego**|**10**|**10**|**10**|**10**|||||
-|**León Madroñal, Juan Carlos**|**10**|**10**|**10**|**10**|||||
-|**Perez Romero, Lucía**|**10**|**10**|**10**|**10**|||||
-|**Restoy Barrero, Joaquín**|**10**|**10**|**10**|**10**|||||
-|**Suárez García, Antonio José**|**9**|**10**|**10**|**10**|||||
-|**Vazquez Rodriguez, Fausto**|**10**|**10**|**10**|**10**|||||
-|**Vidal Tevar, Gabriel**|**9**|**9**|**10**|**9**|||||
-|**Total**|**157**|**159**|**160**|**159**||||
+|**Abulatifa, Mohanad J. D.** |**10**|**10**|**10**|**10**|**10**||||
+|**Castellano Alonso, Álvaro**|**10**|**10**|**10**|**10**|**10**||||
+|**De La Prada Prados, Francisco Javier**|**10**|**10**|**10**|**10**|**10**||||
+|**Del Rio Perez, Carlos**|**9**|**10**|**10**|**10**|**10**||||
+|**Diáñez Suárez, Daniel**|**10**|**10**|**10**|**10**|**9**|**10**|||
+|**García Galocha, Rafael David**|**10**|**10**|**10**|**10**|**10**||||
+|**Garcia Hernandez, Cristina**|**10**|**10**|**10**|**10**|**10**||||
+|**Granados Lopez, Manuel Jesús**|**10**|**10**|**10**|**10**|**10**||||
+|**Jiménez Del Villar, Juan Antonio**|**10**|**10**|**10**|**10**|**10**||||
+|**Marquez Gonzalez, Diego**|**10**|**10**|**10**|**10**|**10**||||
+|**León Madroñal, Juan Carlos**|**10**|**10**|**10**|**10**|**10**||||
+|**Perez Romero, Lucía**|**10**|**10**|**10**|**10**|**10**||||
+|**Restoy Barrero, Joaquín**|**10**|**10**|**10**|**10**|**10**||||
+|**Suárez García, Antonio José**|**9**|**10**|**10**|**10**|**10**||||
+|**Vazquez Rodriguez, Fausto**|**10**|**10**|**10**|**10**|**10**||||
+|**Vidal Tevar, Gabriel**|**9**|**9**|**10**|**9**|**7**|**10**|||
+|**Total**|**157**|**159**|**160**|**159**|**157**|||
 
 
 
@@ -127,6 +128,27 @@
 |**Suárez García, Antonio José**|<p>- Ejercer de usuario piloto para el grupo de la mañana</p><p>- Informe de uso de Docusaurus</p><p>- Desarrollo del backend del calendario</p><p>- Intento de desarrollo del frontend del calendario</p>|
 |**Vazquez Rodriguez, Fausto**|<p>- Fix de ofertas</p><p>- Fix de foro</p><p>- Frontend de diario compartido</p><p>- Actualización de los documentos: Herramientas y Tecnologías (con estadísticas), Diagrama de Gantt, Plan de Gestión de la Configuración</p>|
 |**Vidal Tevar, Gabriel**|<p>- Diario Compartido</p><p>- Story Board</p><p>- Time Effort</p><p></p>|
+
+### Preparing Project Launch (#PPL)
+
+|**Abulatifa, Mohanad J. D.** |<p>- Ver las píldoras teóricas</p><p>- Analizar la píldora de marketing y gestión de comunidad</p><p>- Creación de redes sociales (twitter,facebook y instagram)</p><p>- Tabla de plan de acciones para posts en redes sociales</p><p>- Crear y Publicar 3 posts y historias en redes sociales</p><p>- Documento (Digital marketing ,action planning) completarlo con más detalles</p><p>- añadir los documentos del sprint 4 a la landing page</p>|
+| - | - |
+|**Castellano Alonso, Álvaro**|<p>- Reuniones semanales de líderes</p><p>- Tarea de GDPR a registros de cliente y cuidador</p><p>- Retocar el editar perfil</p><p>- Ayuda en PR de GDPR a Manuel</p><p>- Revisión pr hotfix a develop</p><p>- Actualización de varios documentos y repositorio de documentación para la entrega</p>|
+|**De La Prada Prados, Francisco Javier**|<p>- Realización de las presentaciones de marketing</p><p>- Realización de los anuncios de inversor y clientes</p><p>- Gestión del grupo de marketing</p><p>- Revisión de las condiciones de fallo</p><p>- Revisión de los aspectos esperados del proyecto</p>|
+|**Del Rio Perez, Carlos**|<p>- Documento de ‘Estrategia de Marketing’</p><p>- Investigación sobre cómo posicionar mejor nuestra url de despliegue con la consola de google</p><p>- Píldoras </p>|
+|**Diáñez Suárez, Daniel**|<p>- Investigación acerca de la segmentación del mercado.</p><p>- Tabla de la segmentación del mercado.</p><p>- Documento “Segmentación de Mercado”.</p>|
+|**García Galocha, Rafael David**|<p>- Relacionado con el Feedback semana 10 y 11:</p><p>&emsp;- Recogida, resumen y reorganización</p><p>&emsp;- Pasar feedback a la wiki personal</p><p>&emsp;- Subida a la BCG como representante del G9</p><p>- Documento Contribuciones a la BBDD común</p><p>- Tests para la funcionalidad de mapa</p><p>- Arreglar tests comentados que daban error</p>|
+|**Garcia Hernandez, Cristina**|<p>- Arreglos Despliegue</p><p>- Ayuda a Testing</p>|
+|**Granados Lopez, Manuel Jesús**|<p>- Gestión de las tareas GDPR</p><p>- Evaluar datos a solicitar a usuarios</p><p>- Crear documento de procesos GDPR</p><p>- Coordinación equipo</p><p>- Coordinación de la entrega</p>|
+|**Jiménez Del Villar, Juan Antonio**|<p>- Arreglos generales en frontend:</p><p>&emsp;- Cambiar imagen portada</p><p>&emsp;- Añadir ofertas al navbar</p><p>&emsp;- Correcciones menores</p><p>&emsp;- Especificar formato en la dirección al crear oferta</p>|
+|**Marquez Gonzalez, Diego**|<p>- Hacer los vídeos de las demos</p><p>- Hacer los vídeos de los anuncios a clientes</p><p>- Hacer los vídeos de los anuncios a inversores</p><p>- Hacer las presentaciones</p><p>- Ver las píldoras teóricas</p><p>- Hacer las presentaciones</p><p>- Preparar las presentaciones</p>|
+|**León Madroñal, Juan Carlos**|<p>- Revisión de PRs de testing</p><p>- Tests de backend pasarela de pago #283</p>|
+|**Perez Romero, Lucía**|<p>- Registro de Costes</p><p>- Presentación</p><p>- Revisión PR</p>|
+|**Restoy Barrero, Joaquín**|<p>- Testing de frontend de las funcionalidades chat, login, registro, offer, valoraciones, perfil y mapa.</p><p>- Organización de coverage del proyecto.</p>|
+|**Suárez García, Antonio José**|- Completación del calendario|
+|**Vazquez Rodriguez, Fausto**|<p>- Fix del frontend</p><p>- Actualización de los documentos: Herramientas y Tecnologías (con estadísticas), Diagrama de Gantt, Plan de Gestión de la Configuración</p><p>- Actualización en docusaururs de los documentos: Herramientas y Tecnologías (con estadísticas) y Diagrama de Gantt</p>|
+|**Vidal Tevar, Gabriel**|<p>- Documentación segmentación de mercado</p><p>- JPGs para la presentación</p>|
+
 
 
 

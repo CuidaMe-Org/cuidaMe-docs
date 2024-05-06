@@ -74,7 +74,7 @@ Mostramos en este documento únicamente el estado actual con los usuarios piloto
 Se acordó tanto con los usuarios piloto externos como con los usuarios piloto del grupo 3 de la asignatura, no mandar ni enviar tests de las aplicaciones. Debido a que todo el desarrollo de CuidaME está finalizado, unicamente a falta de pequeños retoques del propio feedback recibido en el Sprint 3, y debido también a que ahora se centran los esfuerzos de la asignatura en la parte de promoción y marketing durante este entregable.
 
 ## Resumen PPL
-Ya únicamente nos queda preparar una encuetsa para conocer el grado de satisfacción de nuestros usuarios pilotos en este proceso sobre el producto final. Se haráen la última entrega del proyecto. Mientras tanto, hemos informado a nuestros usuarios piloto que nos encontramos solucionando los detalles obtenidos como feedback en sus últimas aportaciones para poder ofrecer la versión más completa y correcta de CuidaME.
+Ya únicamente nos queda preparar una encuesta para conocer el grado de satisfacción de nuestros usuarios pilotos en este proceso sobre el producto final. Se haráen la última entrega del proyecto. Mientras tanto, hemos informado a nuestros usuarios piloto que nos encontramos solucionando los detalles obtenidos como feedback en sus últimas aportaciones para poder ofrecer la versión más completa y correcta de CuidaME.
 
 
 ## Conclusión
