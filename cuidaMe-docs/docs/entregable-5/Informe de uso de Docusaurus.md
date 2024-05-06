@@ -15,10 +15,13 @@ Este documento tiene como objetivo establecer el aporte de cada miembro al Docus
 
 |**Miembro**|**Nº de commits**|
 | :-: | :-: |
+|Castellano Alonso, Álvaro|5|
 |Del Río Pérez, Carlos|1|
-|García Galocha, Rafael David|8|
+|Diañez Suárez, Daniel|2|
+|García Galocha, Rafael David|13|
 |García Hernández, Cristina|7|
+|Granados López, Manuel Jesús|11|
 |León Madroñal, Juan Carlos|1|
-|Pérez Romero, Lucía|12|
-|Suárez García, Antonio José|16|
-|Vázquez Rodríguez, Fausto|1|
+|Pérez Romero, Lucía|22|
+|Suárez García, Antonio José|24|
+|Vázquez Rodríguez, Fausto|5|
