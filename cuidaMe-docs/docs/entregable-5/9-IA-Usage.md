@@ -3,6 +3,7 @@
 **Autor(es):**
 - De la Prada Prados, Francisco Javier
 - Jiménez del Villar, Juan Antonio
+- Granados López, Manuel Jesús
 
 
 |**Fecha**|**Versión**|
@@ -11,6 +12,7 @@
 |04/03/2024|v2.0|
 |01/04/2024|v3.0|
 |22/04/2024|v4.0|
+|06/05/2024|v5.0|
 
 
 ## Presentación
@@ -224,12 +226,33 @@ La conversación completa puede verse desde aquí: http://cuidame.wikidot.com/ge
   https://chat.openai.com/share/758f6ec3-2d11-49a7-850e-127daecd21f2
 
 
+### Semana 12
+
+- **Creación del documento GDPR**
+
+  Se utiliza la IA para la elaboración de correos con texto profesional en base a las circunstancias descritas.
+
+  La conversación completa puede verse aquí:
+  
+  https://chatgpt.com/c/8b06bea7-740d-4d16-ab39-36dcc8e39c43
+
+
+### Semana 13
+
+- **Creación de anuncio para inversores**
+
+  Se genera el anuncio para inversores con las características y contenido que se le describe.
+
+  Herramienta usada:
+
+  https://www.renderforest.com/es/
+
 ## Huella de carbono
 
 Según ChatGPT, este consume una media de 0,2g de CO2 por pregunta. Por lo tanto viendo cuantas preguntas hemos hecho podemos tener una estimación de nuestra huella de carbono en el uso de la I.A.
 
 Hemos realizado aproximadamente 131 preguntas, por lo tanto:
-131*0,2 = 26,2g
+135*0,2 = 27g
 
 No existe información fiable acerca de la huella de carbono de “raw shorts”, esto se debe a que puede variar debido a varios factores como la carga de trabajo de la propia IA, la densidad de la pregunta, si es bajo una licencia de pago o gratuita (destinando más recursos la comercializadora a las consultas de los clientes de pago), etc...
 
