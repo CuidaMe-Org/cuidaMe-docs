@@ -17,6 +17,7 @@
 |20/04/2024|v1.7|
 |27/04/2024|v1.8|
 |04/05/2024|v1.9|
+|10/05/2024|v1.10|
 
 
 ## Feedback 06/02
@@ -1058,3 +1059,60 @@ Profesores:
 - Mejorar video de inversores
 - Campaña de marketing en la de los 10min
 - Gráfica de costes en el video de inversores?? solo una parte de la gráfica con zoom?? Costes quizás pegue más en la segunda parte
+
+
+## Feedback 07/05
+### **Registro 1**
+Grupo 10 cocemfe:
+- Falta una historia que enlace todos los puntos de la presentación 
+- En la demo, demasiada enumeración, se debería contextualizar y contando una historia
+- Historia: personajes con roles, interacción entre ellos, haciendo una historia fluida...
+- NO usar términos específicos de ispp o que no se entiendan fuera de la asignatura
+- Intentar apoyar visualmente el inicio efectivo
+
+Grupo shar3ed:
+- Demo: no es solo la interacción entre personajes, es más ocurre esta necesidad pues hay que hacer X cosa y se muestra la acción, no una funcionalidad detrás de otra
+- Usar siempre la misma unidad en los costes, pj usar siempre ...K€
+- Video inversores: bien destacado señalar dónde exactamente se llega a las ganancias y demás. No hace falta mostrar funcionalidad, solo hace falta saber si es un buen negocio
+
+Grupo bunqetbuddy:
+- Bien la demo, cada participante está motivado por algo
+- Todo lo que se ponga en la primera presentación (10min) debe responder a las 6 preguntas que se comentaron la semana pasada. No dar más información de la necesaria, como características de cada persona del equipo.
+- Video inversores: falta los datos económicos
+- En persona perfiles falta comentar la necesidad de cada uno
+
+Grupo 9 NOSOTROS:
+- Falta el video de usuarios
+- Demo mejorada y con historia, bien. Pero algunas funcionalidad se ponen fuera de contexto
+- Diapositiva 8 con falta de apoyo visual al compararse con competencia -> por que más público?
+- Conectar mejor entre presentadores
+- Esto es el ensayo de la presentación final -> siempre tener ese enfoque
+- Para costes hay demasiadas transparencias para algo que no hay que entrar en tanto detalle en el PPL
+- Las fórmulas si no se van a comentar quitarlas?
+- Primera diapo diciendo el análisis, y dsp decir que se va a centrar en la realista
+- Video inversores apoyar con datos! Como tiempo, beneficios, estadísticas...
+- SEO demasiado genérico y teórico. En la planificación lo mismo, hay que mostrar lo que se ha publicado por ejemplo
+- Se esperaba anuncio generalista, analizar cuánto cuesta un anuncio en la tele antes de juan y medio
+- Falta persona profile (recomiendo personalmente que se meta a la persona que se comente en el inicio efectivo)
+
+Grupo harmony:
+- Más apoyo visual en el inicio efectivo, y enlazarlo con demo
+- Anuncio usuario: demasiado poca funcionalidad
+- Demasiado subjetivo el video de inversores, no se indican cifras exactas
+- 5% inversio se ganaría X
+
+Grupo aparking:
+- Hay que presentarse sobre todo en el PPL
+- Killer opener: más apoyo visual 
+- Demo: intentar seguir con la misma historia que en el anuncio
+- Competidores destacar con el que se vaya a comparar
+- Mejorar conexiones entre apartados
+- Redondear las cifras
+
+Profesores:
+- PPL algo del marketing, algun ej de publicación pj, mejor en la parte final
+- Destacar algo de la campaña de marketing
+- Semana que viene retrospectiva final → preparar presentación donde se diga que ha hecho cada uno más clockify (1 diapo por persona) + preparar aspectos de mejora de la asignatura
+- Lunes 20 salón de actos para ensayar
+- Rúbrica final: tabla con 5 aspectos -> calidad audiovisual, como se hace la presentación (energía y ritmo pj), problema y como se resuelve queda claro?, queda claro el público objetivo qué valor se le aporta, y modelo de negocio?
+- 10 min como la PPL pero con algo de marketing al final
