@@ -39,7 +39,7 @@ Aquí se listan credenciales (usuarios y contraseñas) de al menos dos usuarios,
 |**Usuario**|**Contraseña**|
 |admin|123456|
 
-**La URL de la plataforma de despliegue:** [https://CuidaMe.appspot.com](https://cuidame.appspot.com)
+**La URL de la plataforma de despliegue:** https://cuidame-sprint3.ey.r.appspot.com
 
 **La URL de Github:** https://github.com/Galeon2098/CuidaME
 
